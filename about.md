@@ -1,7 +1,7 @@
 ---
+title: About us
 ---
 
-# About us
 
 The majority of the visible matter in the universe is built from protons and neutrons, and the nuclei they compose. The proton and neutron are not elementary particles but are themselves composed of fundamental particles called quarks and gluons. Understanding how quarks and gluons build the visible universe is one of the grand challenges of modern science. Over the last several decades, tremendous progress has been made in mapping one-dimensional projections of the quarks and gluons inside protons and neutrons. However, to address this grand challenge, a three-dimensional mapping of the motion and spatial location of these quarks and gluons inside protons and neutrons is needed. This endeavor can help address essential questions that currently remain unanswered: How do the spin and orbital degrees of freedom of quarks and gluons within the nucleon combine to make up its total spin? What is the origin of the mass of the nucleon and other hadrons? Do gravitational form factors inform us about the origin of mass, and can they be extracted from measurements? Where are the quarks and gluons located within the nucleon? How does the quark-gluon structure of the nucleon change when it is bound in the nucleus? All these urgent questions are stimulating considerable theoretical and experimental investigations, and major facilities have been and will be built to explore them.
 

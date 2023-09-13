@@ -1,6 +1,6 @@
 ---
+title: Phenomenology working group
 ---
 
-# Phenomenology working group
 
 

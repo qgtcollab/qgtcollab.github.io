@@ -1,7 +1,7 @@
 ---
+title: Members
 ---
 
-# Members
 
 | Name |Working group| email |
 | ---- | ::  | --- |

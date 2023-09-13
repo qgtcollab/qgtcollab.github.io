@@ -1,6 +1,6 @@
 ---
+title: Lattice QCD working group
 ---
 
-# Lattice QCD working group
 
 

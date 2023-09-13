@@ -1,6 +1,6 @@
 ---
+title: Theory working group
 ---
 
-# Theory working group
 
 
