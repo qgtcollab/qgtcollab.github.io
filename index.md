@@ -1,5 +1,5 @@
 ---
-title: Quark-Gluon Tomography collaboration (QGT)
+title: Quark-Gluon Tomography collaboration
 ---
 
 <hr style="border:2px solid gray">
