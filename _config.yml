@@ -37,6 +37,21 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "home"  
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        - title: ""
+          image: "images/logo.png"
+          text: "Supported by DOE topicall collaboration program"
+        - nav: "docs"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

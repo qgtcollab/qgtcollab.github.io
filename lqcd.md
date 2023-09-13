@@ -1,0 +1,6 @@
+---
+---
+
+# Lattice QCD working group
+
+
