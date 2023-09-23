@@ -6,21 +6,21 @@ Group Members: Sean Fleming, Jose Goity, Xiangdong Ji, Thomas Mehen, Andreas Met
 
 The theory advances will focus on the foundation of applying QCD factorization theorems, including higher-order perturbative corrections and all-order resummations, to DVCS and other relevant hard exclusive processes with the goal of extracting GPDs. The theory pillar will also provide the necessary ingredients to extract the GPDs from a global analysis. In addition, we will explore non-perturbative methods to provide important insight to describe the GPDs, which can lead to a physics motivated parameterization for the global analysis.
 
-Our research will focus on the following important questions: 
+In particular, our research will focus on the following subjects: 
 
-Theory Advances in Deeply Virtual Compton Scattering
+(1) Theory Advances in Deeply Virtual Compton Scattering
 
-Gluon Tomography with Exclusive Heavy Quarkonium Production
+(2) Gluon Tomography with Exclusive Heavy Quarkonium Production
 
-New Processes and Observables for Probing GPDs
+(3) New Processes and Observables for Probing GPDs
 
-Non-perturbative Methods for GPDs and Hadron Tomography
+(4) Non-perturbative Methods for GPDs and Hadron Tomography
 
-Beyond GPDs: Wigner Distributions
+(5) Beyond GPDs: Wigner Distributions
 
 The milestones from the theory working group are in three main categories: 1) application of perturbative QCD to hard exclusive processes; 2) non-perturbative methods, including and the Covariant Parton Model; and 3) processes at small-x. 
 
-Year1: Analyze factorization for exclusive quarkonia production at leading power for all regions using SCET and NRQCD, including the large and small $Q^2$ regions and quarkonia production at threshold
+Year 1: Analyze factorization for exclusive quarkonia production at leading power for all regions using SCET and NRQCD, including the large and small $Q^2$ regions and quarkonia production at threshold
 
 Apply the light-front Hamiltonian method to compute the GPDs, explore the nucleon spin/mass sum rule, and help to unveil the parton correlation due to strong interaction non-perturbative physics
 
