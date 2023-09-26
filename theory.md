@@ -21,9 +21,6 @@ In particular, our research will focus on the following subjects:
 The milestones from the theory working group are in three main categories: 1) application of perturbative QCD to hard exclusive processes; 2) non-perturbative methods, including and the Covariant Parton Model; and 3) processes at small-x. 
 
 Year 1: Analyze factorization for exclusive quarkonia production at leading power for all regions using SCET and NRQCD, including the large and small $Q^2$ regions and quarkonia production at threshold
-```math
-Q^2
-```
 
 Apply the light-front Hamiltonian method to compute the GPDs, explore the nucleon spin/mass sum rule, and help to unveil the parton correlation due to strong interaction non-perturbative physics
 
@@ -34,7 +31,7 @@ Apply the Covariant Parton Model to the GPDs of quark and gluons, eventually the
 
 Year 3: Use SCET to investigate factorization at subleading power in DVCS, including hadron mass corrections and the factorization and resummation of potential endpoint singularities
 
-Year 4: Perform large $N_c$ analysis of hard exclusive pion production with $N \rightarrow \Delta$ transitions and a combined chiral $\times 1/N_c$ analysis of nucleon energy-momentum tensor form factors
+Year 4: Perform large-$N_c$ analysis of hard exclusive pion production with $N \rightarrow \Delta$ transitions and a combined chiral $\times 1/N_c$ analysis of nucleon energy-momentum tensor form factors
 
 Quantitative study of hard diffractive dijet and di-hadron production at future EIC  and explore novel processes to probe the quark/gluon Wigner distribution in the valence and moderate $x$ region
 
