@@ -1,4 +1,5 @@
 ---
+layout: pubs
 title: Theory working group
 ---
 
