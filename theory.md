@@ -21,6 +21,9 @@ In particular, our research will focus on the following subjects:
 The milestones from the theory working group are in three main categories: 1) application of perturbative QCD to hard exclusive processes; 2) non-perturbative methods, including and the Covariant Parton Model; and 3) processes at small-x. 
 
 Year 1: Analyze factorization for exclusive quarkonia production at leading power for all regions using SCET and NRQCD, including the large and small $Q^2$ regions and quarkonia production at threshold
+```math
+Q^2
+```
 
 Apply the light-front Hamiltonian method to compute the GPDs, explore the nucleon spin/mass sum rule, and help to unveil the parton correlation due to strong interaction non-perturbative physics
 
