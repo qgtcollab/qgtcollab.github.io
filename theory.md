@@ -31,7 +31,7 @@ Apply the Covariant Parton Model to the GPDs of quark and gluons, eventually the
 
 Year 3: Use SCET to investigate factorization at subleading power in DVCS, including hadron mass corrections and the factorization and resummation of potential endpoint singularities
 
-Year 4: Perform large-$N_c$ analysis of hard exclusive pion production with $N \rightarrow \Delta$ transitions and a combined chiral $\times 1/N_c$ analysis of nucleon energy-momentum tensor form factors
+Year 4: Perform ${\rm large-}N_c$ analysis of hard exclusive pion production with $N \rightarrow \Delta$ transitions and a combined chiral $\times 1/N_c$ analysis of nucleon energy-momentum tensor form factors
 
 Quantitative study of hard diffractive dijet and di-hadron production at future EIC  and explore novel processes to probe the quark/gluon Wigner distribution in the valence and moderate $x$ region
 
