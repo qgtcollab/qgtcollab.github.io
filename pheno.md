@@ -9,7 +9,7 @@ An important motivation for this project is to perform a global analysis of exis
 data to obtain information on the underlying GPDs. In so doing, fundamental questions on nucleon structure
 can be addressed, such as: What is the spatial distribution of quarks and gluons in the nucleon? What are the
 distributions of mass and spin in the nucleon, and associated radii and gravitational form factors? How well can
-orbital angular momentum be constrained using the Ji sum rule [ 3 ]? To perform a global analysis for GPDs is
+orbital angular momentum be constrained using the Ji sum rule. To perform a global analysis for GPDs is
 much more challenging than for PDFs or even TMDs. The main reason is that currently accessible processes that
 provide access to GPDs are not directly sensitive to the variable x in the GPDs, which are generically functions
 of F(x, ξ, t). Instead, the GPDs appear inside convolution integrals over x with calculable and improvable
