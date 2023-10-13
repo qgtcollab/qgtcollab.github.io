@@ -8,8 +8,7 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Recent events
 <hr style="border:2px solid gray">
 
-- Collaboration Meeting: Temple University, Philadelphia, PA, September 8-9, 2023  https://sites.temple.edu/qgt2023/
-
+- Collaboration Meeting: Temple University, Philadelphia, PA, September 8-9, 2023  [Link](https://sites.temple.edu/qgt2023/)
 
 
 ## Recent highlights
