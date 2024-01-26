@@ -48,7 +48,7 @@ defaults:
       sidebar:
         - title: ""
           image: "images/logo.png"
-          text: "Supported by DOE topicall collaboration program"
+          text: "Supported by DOE topical collaboration program"
         - nav: "docs"
 
 # Exclude from processing.
