@@ -3,23 +3,32 @@ main:
     url: /index.html
   - title: "About us"
     url: /about.html
+  - title: "Highlights"
+    url: /highlights.html
+  - title: "Position openings"
+    url: /openings.html
+  - title: "Working Groups"
+    url: /working_groups.html
   - title: "Members"
     url: /members.html
   - title: "Publications"
     url: /publications.html
   - title: "Events"
     url: /events.html
+  - title: "Resources"
+    url: /resources.html
 
-docs:
-  - title: "Working groups"
-    children:
-      - title: "Theory"
-        url: /theory.html
-      - title: "LQCD"
-        url: /lqcd.html
-      - title: "Pheno"
-        url: /pheno.html
-
+#docs:
+#  - title: "Working groups"
+#    children:
+##      - title: "Theory"
+##        url: /theory.html
+#      - title: "LQCD"
+#        url: /lqcd.html
+#        image: "images/doe.png"
+#      - title: "Pheno"
+#        url: /pheno.html
+#
 
 #docs:
 #  - title: Getting Started

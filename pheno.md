@@ -1,41 +1,9 @@
 ---
-title: Phenomenology working group
+title: Phenomenology
 ---
+<hr style="border:2px solid gray">
 
-**Working Group Members**: Alberto Accardi, Ian Cloët, Leonard Gamberg, Xiangdong Ji, Wally Melnitchouk,
-Andreas Metz, Gerald Miller, Alexei Prokudin, Nobuo Sato, Kyle Shiells, Christian Weiss
+An important motivation for this project is to perform a global analysis of existing and forthcoming experimental data to obtain information on the underlying GPDs. In so doing, fundamental questions on nucleon structure can be addressed, such as: What is the spatial distribution of quarks and gluons in the nucleon? What are the distributions of mass and spin in the nucleon, and associated radii and gravitational form factors? How well can orbital angular momentum be constrained using the Ji sum rule. To perform a global analysis for GPDs is much more challenging than for PDFs or even TMDs. The main reason is that currently accessible processes that provide access to GPDs are not directly sensitive to the variable x in the GPDs, which are generically functions of F(x, ξ, t). Instead, the GPDs appear inside convolution integrals over x with calculable and improvable perturbative matching coefficients. The observables F (ξ, t), such as the Compton form factors associated with DVCS, are just functions of ξ and t. The inverse problem associated with the extraction of GPDs from data is therefore much more acute than that found in PDF and TMD analyses. A state-of-the-art global analysis is a significant challenge, requiring a coordinated effort between all three working groups in this project. However, such an initiative is essential for the full success of the quark and gluon imaging program at facilities such as Jefferson Lab and the forthcoming EIC.
 
-An important motivation for this project is to perform a global analysis of existing and forthcoming experimental
-data to obtain information on the underlying GPDs. In so doing, fundamental questions on nucleon structure
-can be addressed, such as: What is the spatial distribution of quarks and gluons in the nucleon? What are the
-distributions of mass and spin in the nucleon, and associated radii and gravitational form factors? How well can
-orbital angular momentum be constrained using the Ji sum rule. To perform a global analysis for GPDs is
-much more challenging than for PDFs or even TMDs. The main reason is that currently accessible processes that
-provide access to GPDs are not directly sensitive to the variable x in the GPDs, which are generically functions
-of F(x, ξ, t). Instead, the GPDs appear inside convolution integrals over x with calculable and improvable
-perturbative matching coefficients. The observables F (ξ, t), such as the Compton form factors associated with
-DVCS, are just functions of ξ and t. The inverse problem associated with the extraction of GPDs from data is
-therefore much more acute than that found in PDF and TMD analyses. A state-of-the-art global analysis is a
-significant challenge, requiring a coordinated effort between all three working groups in this project. However,
-such an initiative is essential for the full success of the quark and gluon imaging program at facilities such as
-Jefferson Lab and the forthcoming EIC.
-
-To perform this global analysis for GPDs, we will build upon existing efforts that have mostly been undertaken
-by analysis groups outside of the United States, however, initial studies have also been
-performed by members of our team and others. We will use two main approaches
-for the extraction of GPDs from data, one based on a conformal moment expansion and another
-which utilizes the full machinery of Bayesian inference and deep learning techniques. Nuclear
-targets are also a key component for the working group. We will work at NLO in the evolution and matching
-coefficients, and utilize available data from processes such as DVCS and DVMP. The expected significant
-perturbative corrections in DVMP between LO and NLO will be studied. We will take advantage
-of results from the theory work group on the resummation of large logarithmic contributions, which will bring
-the perturbative corrections under better control, and analyses that also include results from the lattice QCD
-working group on quantities such as moments of GPDs, gravitational form factors, etc. will be performed. In the
-short-term, these lattice results will likely be crucial to tame the inverse problem and obtain solutions for the
-GPDs with reasonable uncertainties. We expect an important synergy with the lattice working group, where we
-identify quantities that can most help in the extraction of GPDs from data and then our lattice team members
-proceed to perform state-of-the-art calculations for these matrix elements. These global analyses will also
-initially benefit from model calculations of nucleon GPDs that can inform physics motivated parametrizations
-for the GPDs. Ultimately, these parametrizations will be given by neural networks (NN) that are constrained
-using physics-informed machine-learning (ML).
+To perform this global analysis for GPDs, we will build upon existing efforts that have mostly been undertaken by analysis groups outside of the United States, however, initial studies have also been performed by members of our team and others. We will use two main approaches for the extraction of GPDs from data, one based on a conformal moment expansion and another which utilizes the full machinery of Bayesian inference and deep learning techniques. Nuclear targets are also a key component for the working group. We will work at NLO in the evolution and matching coefficients, and utilize available data from processes such as DVCS and DVMP. The expected significant perturbative corrections in DVMP between LO and NLO will be studied. We will take advantage of results from the theory work group on the resummation of large logarithmic contributions, which will bring the perturbative corrections under better control, and analyses that also include results from the lattice QCD working group on quantities such as moments of GPDs, gravitational form factors, etc. will be performed. In the short-term, these lattice results will likely be crucial to tame the inverse problem and obtain solutions for the GPDs with reasonable uncertainties. We expect an important synergy with the lattice working group, where we identify quantities that can most help in the extraction of GPDs from data and then our lattice team members proceed to perform state-of-the-art calculations for these matrix elements. These global analyses will also initially benefit from model calculations of nucleon GPDs that can inform physics motivated parametrizations for the GPDs. Ultimately, these parametrizations will be given by neural networks (NN) that are constrained using physics-informed machine-learning (ML).
 

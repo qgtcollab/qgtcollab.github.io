@@ -1,6 +1,9 @@
 ---
 title: Members
 ---
+<hr style="border:2px solid gray">
+
+## Spokespersons
 
 | Name | Institution | Email |
 | -----| ----------- | ----- |
@@ -8,12 +11,30 @@ title: Members
 | Ian  Cloet | Argonne National Laboratory | icloet@anl.gov|
 | David Richards |  Jefferson Lab |dgr@jlab.org |
 | Feng Yuan | Lawrence Berkeley National Laboratory |fyuan@lbl.gov |
+
+
+
+## Executive committee
+
+| Name | Institution | Email |
+| -----| ----------- | ----- |
+| Martha Constantinou (PI)| Temple University | marthac@temple.edu |
+| Ian  Cloet | Argonne National Laboratory | icloet@anl.gov|
+| David Richards |  Jefferson Lab |dgr@jlab.org |
+| Feng Yuan | Lawrence Berkeley National Laboratory |fyuan@lbl.gov |
+| Christopher Monahan | William & Mary | cjmonahan@wm.edu|
+| Nobuo Sato | Jefferson Lab | nsato@jlab.org|
+
+
+## Co-Pricipal investigators
+
+| Name | Institution | Email |
+| -----| ----------- | ----- |
 | Yong Zhao | Argonne National Laboratory |yong.zhao@anl.gov|
 | Thomas Mehen | Duke University |mehen@duke.edu|
 | Alberto Accardi| Hampton University |accardi@jlab.org| 
 | Jose Goity | Hampton University |goity@jlab.org|
 | Wally Melnitchouk | Jefferson Lab |wmelnitc@jlab.org|
-| Nobuo Sato | Jefferson Lab | nsato@jlab.org|
 | Christian Weiss | Jefferson Lab |weiss@jlab.org|
 | William Detmold | Massachusetts Institute of Technology |wdetmold@mit.edu|
 | John Negele | Massachusetts Institute of Technology |negele@mit.edu|
@@ -31,8 +52,16 @@ title: Members
 | Xiangdong Ji | University of Maryland |xji@umd.edu|
 | Kyle Shiells | University of Manitoba| KyleLebaron.Shiells@umanitoba.ca|
 | Gerald Miller | University of Washington |miller@phys.washington.edu|
-| Christopher Monahan | William & Mary | cjmonahan@wm.edu|
 | Konstantinos Orginos | William & Mary | kostas@wm.edu|
+
+
+
+
+
+
+
+
+
 
 
 

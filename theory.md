@@ -1,8 +1,8 @@
 ---
-title: Theory working group
+title: Theory
 ---
+<hr style="border:2px solid gray">
 
-Group Members: Sean Fleming, Jose Goity, Xiangdong Ji, Thomas Mehen, Andreas Metz, Gerald Miller, Peter Schweitzer, Edward Shuryak, Iain Stewart, Christian Weiss, Feng Yuan, Ismail Zahed.
 
 The theory advances will focus on the foundation of applying QCD factorization theorems, including higher-order perturbative corrections and all-order resummations, to DVCS and other relevant hard exclusive processes with the goal of extracting GPDs. The theory pillar will also provide the necessary ingredients to extract the GPDs from a global analysis. In addition, we will explore non-perturbative methods to provide important insight to describe the GPDs, which can lead to a physics motivated parameterization for the global analysis.
 

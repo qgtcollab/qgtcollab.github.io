@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: QGT
+title: QGT Collaboration
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -47,10 +47,17 @@ defaults:
     values:
       sidebar:
         - title: ""
-          image: "images/logo.png"
-          text: "Supported by DOE topical collaboration program"
-        - nav: "docs"
-
+        - image: "images/logo.png"
+          text: "Supported by DOE topical collaboration program (DE-SC0023646)"
+        - image: "images/doe.png"
+#        - nav: "top-menu"
+#        - nav: "docs"
+#      sidebar:
+#        - title: ""
+#          image: "images/logo.png"
+#          text: "Supported by DOE topical collaboration program (DE-SC0023646)"
+#        - nav: "docs"
+#
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,8 +1,8 @@
 ---
-title: Lattice QCD working group
+title: Lattice QCD
 ---
+<hr style="border:2px solid gray">
 
-**Working Group Members**: Chris Chamness, Martha Constantinou, Joey Delmar, Will Detmold, Herve Dutrieux, Xiang Gao, Jinchen He, Joe Karpie, Daniel Kovner, Ken-Fei Liu, Josh Miller, Chris Monahan, John Negele, Kostas Orginos, David Richards, Phiala Shanahan, Yushan Su, Raza Sufian, Sergey Syritsyn, Joey Torciello, Bigeng Wang, Yong Zhao
 
 Lattice QCD (LQCD) allows the solution of QCD in the strong-coupling regime, and therefore, first-principles LQCD calculations comprise an essential component of the QGT Collaboration and will contribute to the goal of  understanding the internal structure of hadrons. LQCD is formulated on a four-dimensional Euclidean space-time lattice, which admits the use of importance sampling to sample the path integral and thereby render non-perturbative computations practical. However, the Euclidean nature of LQCD precludes the direct computation of some of the quantities under investigation in this proposal, such as the matrix elements of operators separated along the light cone. The recent realization that such matrix elements can, in fact, be related to quantities calculable on a Euclidean lattice in a systematically improvable way has transformed the potential of LQCD to study the structure of hadrons. The advent of exascale computing will not only allow the calculation of key measures of hadron structure, such as the x-dependent PDFs, with controlled uncertainties, but enable us to address the three-dimensional distributions at the heart of this proposal. 
 
