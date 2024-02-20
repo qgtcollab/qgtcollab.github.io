@@ -1,22 +1,42 @@
 main:
-  - title: "Home"
+  - title: <span style="font-size:0.7em;">Home</span>
     url: /index.html
-  - title: "About us"
+  - title: <span style="font-size:0.7em;">About us</span>
     url: /about.html
-  - title: "Highlights"
+  - title: <span style="font-size:0.7em;">Highlights</span>
     url: /highlights.html
-  - title: "Position Openings"
+  - title: <span style="font-size:0.7em;">Openings</span>
     url: /openings.html
-  - title: "Working Groups"
+  - title: <span style="font-size:0.7em;">Working Groups</span>
     url: /working_groups.html
-  - title: "Members"
+  - title: <span style="font-size:0.7em;">Members</span>
     url: /members.html
-  - title: "Publications"
+  - title: <span style="font-size:0.7em;">Publications</span>
     url: /publications.html
-  - title: "Events"
+  - title: <span style="font-size:0.7em;">Events</span>
     url: /events.html
-  - title: "Resources"
+  - title: <span style="font-size:0.7em;">Resources</span>
     url: /resources.html
+
+#main:
+#  - title: "Home"
+#    url: /index.html
+#  - title: "About us"
+#    url: /about.html
+#  - title: "Highlights"
+#    url: /highlights.html
+#  - title: "Position Openings"
+#    url: /openings.html
+#  - title: "Working Groups"
+#    url: /working_groups.html
+#  - title: "Members"
+#    url: /members.html
+#  - title: "Publications"
+#    url: /publications.html
+#  - title: "Events"
+#    url: /events.html
+#  - title: "Resources"
+#    url: /resources.html
 
 #docs:
 #  - title: "Working groups"
