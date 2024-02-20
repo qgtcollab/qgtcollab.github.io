@@ -30,7 +30,7 @@ title: Publications
 
 - V.D. Burkert, L. Elouadrhiri, F.X. Girod, C. Lorcé, P. Schweitzer, P.E. Shanahan,
   *Colloquium: Gravitational Form Factors of the Proton*, 
-  [Phy. Rev. D, Under Review]()
+  [Rev. Mod. Phys. 95 (2023)](https://inspirehep.net/literature/2642379)
 
 - Adam Freese, Gerald Miller, 
   *Synchronization effects on rest frame energy and momentum densities in the proton*, 
@@ -56,7 +56,10 @@ title: Publications
   *Lattice QCD Calculation of Electroweak Box Contributions to Superallowed Nuclear and Neutron Beta Decays*, 
   [e‐Print: 2308.16755](https://inspirehep.net/literature/2692415)
 
+- Daniel C. Hackett, Patrick R. Oare, Dimitra A. Pefkou, Phiala E. Shanahan,
+  *Gravitational form factors of the pion from lattice QCD*
+  [Phys. Rev. D 108 (2023)](https://inspirehep.net/literature/2679258)
 
-
-
-
+- Daniel C. Hackett, Dimitra A. Pefkou, Phiala E. Shanahan,
+  *Gravitational form factors of the proton from lattice QCD*
+  [Under review in Phys.Rev.Lett]()

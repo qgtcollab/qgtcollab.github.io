@@ -14,4 +14,6 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Press & DOE highlights
 <hr style="border:2px solid gray">
 
+- [Gravitational form factors of the proton revealed by theory and experiment](/highlights/0002.html) by  Shanahan *et. al.* 
+
 - [Theory Offers a High-Resolution View of Quarks Inside Protons](/highlights/0001.html) by Bhattacharya *et. al.*
