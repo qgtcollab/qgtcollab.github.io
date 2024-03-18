@@ -63,3 +63,16 @@ title: Publications
 - Daniel C. Hackett, Dimitra A. Pefkou, Phiala E. Shanahan,
   *Gravitational form factors of the proton from lattice QCD*
   [Under review in Phys.Rev.Lett]()
+
+
+- X. Gao, A. D. Hanlon, J. Holligan, N. Karthik, S. Mukherjee, P. Petreczky, S. Syritsyn and Y. Zhao,
+  *Unpolarized proton PDF at NNLO from lattice QCD with physical quark masses,*
+  [Phys. Rev. D 107 (2023)](https://inspirehep.net/literature/2618174)
+
+- X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn and Y. Zhao,
+  *Transversity PDFs of the proton from lattice QCD with physical quark masses,*
+  [accepted by Phys. Rev. D. ](https://inspirehep.net/literature/2715638)
+
+
+
+
