@@ -14,8 +14,11 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Press & DOE highlights
 <hr style="border:2px solid gray">
 
+- [Visualization of mass distribution within hadrons](/highlights/0004.html) by Liu *et. al.* 
+
+- [Shedding Light on Shadow Generalized Parton Distributions](/highlights/0003.html) by  Moffat *et. al.* 
+
 - [Gravitational form factors of the proton revealed by theory and experiment](/highlights/0002.html) by  Shanahan *et. al.* 
 
 - [Theory Offers a High-Resolution View of Quarks Inside Protons](/highlights/0001.html) by Bhattacharya *et. al.*
 
-- [Shedding Light on Shadow Generalized Parton Distributions](/highlights/0003.html) by  Moffat *et. al.* 
