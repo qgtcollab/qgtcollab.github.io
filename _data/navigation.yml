@@ -3,16 +3,16 @@ main:
     url: /index.html
   - title: <span style="font-size:0.7em;">About us</span>
     url: /about.html
-  - title: <span style="font-size:0.7em;">Highlights</span>
+  - title: <span style="font-size:0.7em;">Press & Highlights</span>
     url: /highlights.html
+  - title: <span style="font-size:0.7em;">Publications</span>
+    url: /publications.html
   - title: <span style="font-size:0.7em;">Openings</span>
     url: /openings.html
   - title: <span style="font-size:0.7em;">Working Groups</span>
     url: /working_groups.html
   - title: <span style="font-size:0.7em;">Members</span>
     url: /members.html
-  - title: <span style="font-size:0.7em;">Publications</span>
-    url: /publications.html
   - title: <span style="font-size:0.7em;">Events</span>
     url: /events.html
   - title: <span style="font-size:0.7em;">Resources</span>

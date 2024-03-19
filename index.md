@@ -11,14 +11,12 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 - Collaboration Meeting: Temple University, Philadelphia, PA, September 8-9, 2023  [Link](https://sites.temple.edu/qgt2023/)
 
 
-## Press & DOE highlights
+## Recent press & highlights <span style="font-size:0.5em;">(updated on Mar 19 2024) </span> 
 <hr style="border:2px solid gray">
 
-- [Visualization of mass distribution within hadrons](/highlights/0004.html) by Liu *et. al.* 
+- [Visualization of mass distribution within hadrons](/highlights/0004.html) 
+- [Shedding Light on Shadow Generalized Parton Distributions](/highlights/0003.html) 
+- [Gravitational form factors of the proton revealed by theory and experiment](/highlights/0002.html) 
 
-- [Shedding Light on Shadow Generalized Parton Distributions](/highlights/0003.html) by  Moffat *et. al.* 
-
-- [Gravitational form factors of the proton revealed by theory and experiment](/highlights/0002.html) by  Shanahan *et. al.* 
-
-- [Theory Offers a High-Resolution View of Quarks Inside Protons](/highlights/0001.html) by Bhattacharya *et. al.*
+see more [here](/highlights.html).
 
