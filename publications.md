@@ -3,6 +3,9 @@ title: Publications
 ---
 <hr style="border:2px solid gray">
 
+- H. Dutrieux, J. Karpie, C. Monahan, K. Orginos, S. Zafieropoulos, *Evolution of Parton Distribution Functions in the Short-Distance Factorization Scheme*, 
+  accepted by [Phys. Rev. D (2024)](https://inspirehep.net/literature/2715661)
+  
 - Joe Karpie,  Richard Whitehill, Wally Melnitchouk, Chris Monahan, Kostas Orginos, Jian-Wei Qiu, David Richards, Nobuo Sato, Savvas Zafeiropoulos, 
   *Gluon helicity in the nucleon from lattice QCD and machine learning*, 
   [Phys. Rev. D 109, 036031 (2024)](https://inspirehep.net/literature/2714843)
