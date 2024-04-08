@@ -3,6 +3,10 @@ title: Publications
 ---
 <hr style="border:2px solid gray">
 
+- Joe Karpie,  Richard Whitehill, Wally Melnitchouk, Chris Monahan, Kostas Orginos, Jian-Wei Qiu, David Richards, Nobuo Sato, Savvas Zafeiropoulos, 
+  *Gluon helicity in the nucleon from lattice QCD and machine learning*, 
+  [Phys. Rev. D 109, 036031 (2024)](https://inspirehep.net/literature/2714843)
+  
 - Tanjib Khan, Tianbo Liu, Raza Sabbir Sufian, 
   *Gluon helicity in the nucleon from lattice QCD and machine learning*, 
   [Phys. Rev. D 108, 074502 (2023)](https://inspirehep.net/literature/2601256)
