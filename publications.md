@@ -3,6 +3,19 @@ title: Publications
 ---
 <hr style="border:2px solid gray">
 
+- Bigeng Wang, Fangcheng He, Gen Wang, Terrence Draper, Jian Liang, Keh-Fei Liu, Yi-Bo Yang, *Trace anomaly form factors from lattice QCD*, 
+  accepted by [Phys. Rev. D (2024)](https://inspirehep.net/literature/2745662)
+  
+- H. Dutrieux, J. Karpie, C. Monahan, K. Orginos, S. Zafieropoulos, *Evolution of Parton Distribution Functions in the Short-Distance Factorization Scheme*, 
+  accepted by [Phys. Rev. D (2024)](https://inspirehep.net/literature/2715661)
+  
+- Joe Karpie, Richard Whitehill, Wally Melnitchouk, Chris Monahan, Kostas Orginos, Jian-Wei Qiu, David Richards, Nobuo Sato, Savvas Zafeiropoulos, 
+  *Gluon helicity in the nucleon from lattice QCD and machine learning*, 
+  [Phys. Rev. D 109, 036031 (2024)](https://inspirehep.net/literature/2714843)
+  
+- Keh-Fei Liu, *Hadrons, superconductor vortices, and cosmological constant*, 
+  [Phys. Lett. B 849, 138418 (2024)](https://inspirehep.net/literature/2635796)
+  
 - Tanjib Khan, Tianbo Liu, Raza Sabbir Sufian, 
   *Gluon helicity in the nucleon from lattice QCD and machine learning*, 
   [Phys. Rev. D 108, 074502 (2023)](https://inspirehep.net/literature/2601256)
