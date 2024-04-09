@@ -13,3 +13,6 @@ title: Press & Highlights
 - [Visualization of mass distribution within hadrons](/highlights/0004.html)  
 
 - [Physicists Determine Distribution of Strong Force inside Proton](https://www.sci.news/physics/proton-strong-force-distribution-12629.html)
+
+- [The proton as seen with a finite speed of light](/highlights/0005.html)
+
