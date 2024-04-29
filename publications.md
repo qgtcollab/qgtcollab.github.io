@@ -84,8 +84,13 @@ title: Publications
 
 - X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn and Y. Zhao,
   *Transversity PDFs of the proton from lattice QCD with physical quark masses,*
-  [accepted by Phys. Rev. D. ](https://inspirehep.net/literature/2715638)
+  [Phys.Rev.D 109 (2024)](https://inspirehep.net/literature/2715638)
 
+- Peng‐Xiang Ma, Xu Feng, Mikhail Gorchtein, Lu‐Chang Jin, Keh‐Fei Liu, Chien‐Yeah Seng, Bi‐Geng Wang, Zhao‐Long Zhang, 
+  *Lattice QCD Calculation of Electroweak Box Contributions to Superallowed Nuclear and Neutron Beta Decays,* 
+  [Phys. Rev. Lett. (accepted)](https://journals.aps.org/prl/accepted/d4074Y47W3416e7df8874f00d8997d9265249c3d0)
 
-
+- Xiang Gao, Wei‐Yang Liu, Yong Zhao, 
+  *Parton Distributions from Boosted Fields in the Coulomb Gauge,*
+  [Phys. Rev. D (accepted)](https://journals.aps.org/prd/accepted/3c07bY67T3615f98d4e12c183a68b1bc207422181)
 
