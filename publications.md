@@ -2,6 +2,24 @@
 title: Publications
 ---
 
+- **D. Bollweg, 
+  X. Gao, 
+  S. Mukherjee 
+  and Y. Zhao**, <br/>
+  *Nonperturbative Collins-Soper kernel from chiral quarks with physical masses*,<br/>
+  [Phys.Lett.B 852 (Apr 2024)](https://inspirehep.net/literature/2764011)
+
+- **Heng-Tong Ding
+    , Xiang Gao
+    , Andrew D. Hanlon
+    , Swagato Mukherjee
+    , Peter Petreczky
+    , Qi Shi
+    , Sergey Syritsyn
+    , Rui Zhang
+    , Yong Zhao**,<br/>
+  *QCD Predictions for Meson Electromagnetic Form Factors at High Momenta: Testing Factorization in Exclusive Processes*,<br/>
+  [Unpublished (Apr 2024)](https://inspirehep.net/literature/2774995)
 
 - **Fangcheng He, Ismail Zahed**,<br/>
   *Gravitational form factors of light nuclei: Impulse approximation*,<br/>
@@ -172,10 +190,6 @@ title: Publications
   *Synchronization effects on rest frame energy and momentum densities in the proton*,<br/>
   [Phys Rev D 108 (Jul 2023)](https://inspirehep.net/literature/2679261)
 
-
-- **Xiang Gao, Wei‐Yang Liu, Yong Zhao**,<br/> 
-  *Parton Distributions from Boosted Fields in the Coulomb Gauge*,<br/>
-  [Unpublished (Jun 2023)](https://inspirehep.net/literature/2672252)
 
 - **Edward Shuryak, Ismail Zahed**,<br/>
   *Hadronic structure on the light‐front VI. Generalized parton distributions of unpolarized hadrons*,<br/>
