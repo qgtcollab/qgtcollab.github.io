@@ -2,6 +2,12 @@
 title: Publications
 ---
 
+- **J. Karpie, 
+  C.J. Monahan,  
+  and A. Radyushkin**, <br/>
+  *Non-local nucleon matrix elements in the rest frame*,<br/>
+  [Unpublished (July 2024)](https://arxiv.org/abs/2407.16577)
+  
 - **D. Bollweg, 
   X. Gao, 
   S. Mukherjee 
