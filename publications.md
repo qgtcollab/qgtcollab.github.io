@@ -62,12 +62,12 @@ title: Publications
 
 - **Peng‐Xiang Ma, Xu Feng, Mikhail Gorchtein, Lu‐Chang Jin, Keh‐Fei Liu, Chien‐Yeah Seng, Bi‐Geng Wang, Zhao‐Long Zhang**,<br/> 
   *Lattice QCD Calculation of Electroweak Box Contributions to Superallowed Nuclear and Neutron Beta Decays,* <br/>
-  [acceped in Phys. Rev. Lett. (Apr 2024)](https://journals.aps.org/prl/accepted/d4074Y47W3416e7df8874f00d8997d9265249c3d0)
+  [Phys.Rev.Lett. 132 (May 2024)](https://journals.aps.org/prl/accepted/d4074Y47W3416e7df8874f00d8997d9265249c3d0)
 
 
 - **Xiang Gao, Wei‐Yang Liu, Yong Zhao**,<br /> 
   *Parton Distributions from Boosted Fields in the Coulomb Gauge,*<br/>
-  [accepted in Phys. Rev. D (Apr 2024)](https://journals.aps.org/prd/accepted/3c07bY67T3615f98d4e12c183a68b1bc207422181)
+  [Phys.Rev. D 109 (May 2024)](https://journals.aps.org/prd/accepted/3c07bY67T3615f98d4e12c183a68b1bc207422181)
 
 - **X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn and Y. Zhao**,<br/>
   *Transversity PDFs of the proton from lattice QCD with physical quark masses,*<br/>
@@ -92,7 +92,7 @@ title: Publications
 
 - **Florian Hechenberger, Kiminad A. Mamo, Ismail Zahed**,<br/>
   *Holographic odderon at TOTEM?*,<br/>
-  [ Phys.Rev.D 109 (Feb 2024) ](https://inspirehep.net/literature/2721067)
+  [Phys.Rev.D 109 (Feb 2024)](https://inspirehep.net/literature/2721067)
 
 - **Shohini Bhattacharya
     , Krzysztof Cichy
@@ -110,11 +110,11 @@ title: Publications
 
 - **Fangcheng He, Ismail Zahed**,<br/>
   *Deuteron gravitational form factors: exchange currents*,<br/>
-  [Unpublished (Jan 2024)](https://inspirehep.net/literature/2747749)
+  [Phys.Rev.C 110 (Jul 2024)](https://inspirehep.net/literature/2747749)
 
 - **Bigeng Wang, Fangcheng He, Gen Wang, Terrence Draper, Jian Liang, Keh-Fei Liu, Yi-Bo Yang**,<br/>
   *Trace anomaly form factors from lattice QCD*,<br/> 
-  [Accepted in Phys. Rev. D (Jan 2024)](https://inspirehep.net/literature/2745662)
+  [Phys.Rev.D 109 (May 2024)](https://inspirehep.net/literature/2745662)
 
 - **Yuxun Guo, Xiangdong Ji, Feng Yuan**,<br/>
   *Proton's gluon GPDs at large skewness and gravitational form factors from near threshold heavy quarkonium photo‐production*,<br/> 
@@ -168,7 +168,6 @@ title: Publications
 - **V.D. Burkert, L. Elouadrhiri, F.X. Girod, C. Lorcé, P. Schweitzer, P.E. Shanahan**,<br/>
   *Colloquium: Gravitational Form Factors of the Proton*,<br/> 
   [Rev. Mod. Phys. 95 (Oct 2023)](https://inspirehep.net/literature/2642379)
-
 
 - **Daniel C. Hackett, Dimitra A. Pefkou, Phiala E. Shanahan**,<br/>
   *Gravitational form factors of the proton from lattice QCD* <br/>
