@@ -34,7 +34,7 @@ title: Publications
 
 - **Florian Hechenberger,  Kiminad A. Mamo, Ismail Zahed**,<br/>
   *Threshold photoproduction of $\eta_c$ and $\eta_b$ using holographic QCD*,<br/>
-  [Phys.Rev.D 109 (Apr 2024) ](https://inspirehep.net/literature/2750170)
+  [Phys.Rev.D 109 (Apr 2024)](https://inspirehep.net/literature/2750170)
 
 - **Kiminad A. Mamo,  Ismail Zahed**,<br/>
   *String-based parametrization of nucleon GPDs at any skewness: a comparison to lattice QCD*,<br/>
@@ -54,7 +54,7 @@ title: Publications
 
 - **Wei-Yang Liu, Edward Shuryak, Ismail Zahed**, <br/>
   *Glue in hadrons at medium resolution and the QCD instanton vacuum*<br/>
-  [Unpublished (Apr 2024)](https://inspirehep.net/literature/2774050)
+  [Phys.Rev.D 110 (Sep 2024)](https://inspirehep.net/literature/2774050)
 
 - **H. Dutrieux, J. Karpie, C. Monahan, K. Orginos, S. Zafieropoulos**,<br/>
   *Evolution of Parton Distribution Functions in the Short-Distance Factorization Scheme*,<br/>
@@ -76,7 +76,7 @@ title: Publications
 
 - **Yoshitaka Hatta, Feng Yuan**,<br/>
   *Angular dependence in transverse momentum dependent diffractive parton distributions at small-x*,<br/>
-  [Unpublished (Mar 2024)](https://inspirehep.net/literature/2772336)
+  [Phys.Lett.B 854 (Jul 2024)](https://inspirehep.net/literature/2772336)
 
 - **Mary Alberg, Gerald A. Miller**,<br/>
   *Quark Counting, Drell-Yan West, and the Pion Wave Function*,<br/>
