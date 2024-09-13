@@ -1,7 +1,10 @@
 ---
 title: Publications
 ---
-
+- **H. Dutrieux, R. Edwards, C. Egerer, J. Karpie, C. Monahan, K. Orginos, A. Radyushkin, D. Richards, E. Romero, S. Zafieropoulos**,<br/>
+  *Towards unpolarized GPDs from pseudo-distributions*,<br/>
+  [JHEP 08, 162 (Aug 2024)](https://inspirehep.net/literature/2787398)
+  
 - **J. Karpie, C.J. Monahan, and A. Radyushkin**, <br/>
   *Non-local nucleon matrix elements in the rest frame*,<br/>
   [Unpublished (July 2024)](https://arxiv.org/abs/2407.16577)
