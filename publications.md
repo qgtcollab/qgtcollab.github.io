@@ -1,14 +1,134 @@
 ---
 title: Publications
 ---
-- **H. Dutrieux, R. Edwards, C. Egerer, J. Karpie, C. Monahan, K. Orginos, A. Radyushkin, D. Richards, E. Romero, S. Zafieropoulos**,<br/>
+- **Nicholas Miesch, 
+Edward Shuryak**,<br/>
+*Wave functions of multiquark hadrons from representations of the symmetry groups Sn*,<br/>
+[e-Print: 2406.05024 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2796032)
+
+- **Yuxun Guo, 
+Xiaohui Liu, 
+Feng Yuan**,<br/>
+*Long Range Energy-energy Correlator at the LHC*,<br/>
+[e-Print: 2408.14693 [hep-ph] (Aug 2024)](https://inspirehep.net/literature/2822108)
+
+- **Xiang Gao, 
+Jinchen He, 
+Rui Zhang, 
+Yong Zhao**,<br/>
+*Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge*,<br/>
+[e-Print: 2408.05910 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2817213)
+
+- **Ignacio Castelli, 
+Adam Freese, 
+Cédric Lorcé, 
+Andreas Metz, 
+Barbara Pasquini, 
+Simone Rodini**,<br/>
+*Perturbative results of matrix elements of the axial current and their relation with the axial anomaly*,<br/>
+[e-Print: 2408.00554 [hep-ph] (Aug 2024)](https://inspirehep.net/literature/2813770)
+
+- **Xiang Gao, 
+Jinchen He, 
+Yushan Su, 
+Rui Zhang, 
+Yong Zhao**,<br/>
+*Comments on "Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
+[e-Print: 2408.04674 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2816860)
+
+- **Joe Karpie, 
+Christopher Monahan, 
+Anatoly Radyushkin**,<br/>
+*Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
+[e-Print: 2407.16577 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2810373)
+
+- **Fangcheng He, Ismail Zahed**,<br/>
+*Threshold photo-production of J/Psi off light nuclei*,<br/>
+[e-Print: 2407.09991 [nucl-th] (Jul 2024)](https://inspirehep.net/literature/2807707)
+
+- **Heng-Tong Ding,
+Xiang Gao, 
+Swagato Mukherjee, 
+Peter Petreczky, 
+Qi Shi, 
+Sergey Syritsyn, 
+Yong Zhao**,<br/>
+*Three-dimensional Imaging of Pion using Lattice QCD: Generalized Parton Distributions*,<br/>
+[e-Print: 2407.03516 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2804762)
+
+- **Bhoomika Pandya, 
+Bheemsehan Gurjar, 
+Dipankar Chakrabarti, 
+Ho-Meoyng Choi, 
+Chueng-Ryong Ji**,<br/>
+*Mixing effects on spectroscopy and partonic observables of mesons with logarithmic confining potential in a light-front quark model*,<br/>
+[e-Print: 2407.02479 [hep-ph] (Jul 2024)](https://inspirehep.net/literature/2803992)
+
+- **Brean Maynard**,<br/>
+*Energy-momentum tensor in phi4  theory at one loop*,<br/>
+[e-Print: 2406.08857 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2797751)
+
+- **Fangcheng He,
+Ismail Zahed**,<br/>
+*Helium-4 gravitational form factors: exchange currents*,<br/>
+[e-Print: 2406.07412 [nucl-th] (Jun 2024)](https://inspirehep.net/literature/2796900)
+
+- **Yuxun Guo, 
+Xiaohui Liu, 
+Feng Yuan, 
+Hua Xing Zhu**,<br/>
+*Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC*,<br/>
+[e-Print: 2406.05880 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2796551)
+
+- **Zhengyang Gao,
+Fangcheng He, 
+Chueng-Ryong Ji,
+W. Melnitchouk, 
+Y. Salamu, 
+P. Wang**,<br/>
+*Nonlocal chiral contributions to generalized parton distributions of the proton at nonzero skewness*,<br/>
+[e-Print: 2406.03412 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2794791)
+
+- **Sebastian Grieninger, 
+Ismail Zahed,**,<br/>
+*Quasi-fragmentation functions in the massive Schwinger model*,<br/>
+[e-Print: 2406.01891 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2794365)
+
+- **Wei-Yang Liu, 
+Edward Shuryak, 
+Ismail Zahed**,<br/>
+*Pion gravitational form factors in the QCD instanton vacuum II*,<br/>
+[e-Print: 2405.16269 [hep-ph] (May 2024)](https://inspirehep.net/literature/2790356)
+
+- **Wei-Yang Liu, 
+Edward Shuryak, 
+Christian Weiss, 
+Ismail Zahed**,<br/>
+*Pion gravitational form factors in the QCD instanton vacuum I*,<br/>
+[e-Print: 2405.14026 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789192)
+
+- **Hervé Dutrieux, 
+  Robert G. Edwards, 
+  Colin Egerer, 
+  Joseph Karpie, 
+  Christopher Monahan, 
+  Kostas Orginos,
+  Anatoly Radyushkin, 
+  David Richards, 
+  Eloy Romero, 
+  Savvas Zafeiropoulos**,<br/>
   *Towards unpolarized GPDs from pseudo-distributions*,<br/>
-  [JHEP 08, 162 (Aug 2024)](https://inspirehep.net/literature/2787398)
-  
-- **J. Karpie, C.J. Monahan, and A. Radyushkin**, <br/>
-  *Non-local nucleon matrix elements in the rest frame*,<br/>
-  [Unpublished (July 2024)](https://arxiv.org/abs/2407.16577)
-  
+  [JHEP08 162 (Aug 2024)](https://inspirehep.net/literature/2787398)
+
+- **Shohini Bhattacharya, 
+  Krzysztof Cichy, 
+  Martha Constantinou, 
+  Andreas Metz, 
+  Niilo Nurminen, 
+  Fernanda Steffens**,<br/>
+ *Generalized parton distributions from the pseudodistribution approach on the lattice*,<br/> 
+  [Phys.Rev.D. 110.054502 (Sep 2024)](https://inspirehep.net/literature/2783983)
+
 - **D. Bollweg, 
   X. Gao, 
   S. Mukherjee 
@@ -34,7 +154,7 @@ title: Publications
 
 - **Florian Hechenberger,  Kiminad A. Mamo, Ismail Zahed**,<br/>
   *Threshold photoproduction of $\eta_c$ and $\eta_b$ using holographic QCD*,<br/>
-  [Phys.Rev.D 109 (Apr 2024)](https://inspirehep.net/literature/2750170)
+  [Phys.Rev.D 109 (Apr 2024) ](https://inspirehep.net/literature/2750170)
 
 - **Kiminad A. Mamo,  Ismail Zahed**,<br/>
   *String-based parametrization of nucleon GPDs at any skewness: a comparison to lattice QCD*,<br/>
@@ -54,7 +174,7 @@ title: Publications
 
 - **Wei-Yang Liu, Edward Shuryak, Ismail Zahed**, <br/>
   *Glue in hadrons at medium resolution and the QCD instanton vacuum*<br/>
-  [Phys.Rev.D 110 (Sep 2024)](https://inspirehep.net/literature/2774050)
+  [Phys. Rev. D 110.054005 (Apr 2024)](https://inspirehep.net/literature/2774050)
 
 - **H. Dutrieux, J. Karpie, C. Monahan, K. Orginos, S. Zafieropoulos**,<br/>
   *Evolution of Parton Distribution Functions in the Short-Distance Factorization Scheme*,<br/>
@@ -62,12 +182,12 @@ title: Publications
 
 - **Peng‐Xiang Ma, Xu Feng, Mikhail Gorchtein, Lu‐Chang Jin, Keh‐Fei Liu, Chien‐Yeah Seng, Bi‐Geng Wang, Zhao‐Long Zhang**,<br/> 
   *Lattice QCD Calculation of Electroweak Box Contributions to Superallowed Nuclear and Neutron Beta Decays,* <br/>
-  [Phys.Rev.Lett. 132 (May 2024)](https://journals.aps.org/prl/accepted/d4074Y47W3416e7df8874f00d8997d9265249c3d0)
+  [Phys. Rev. Lett. 132, 191901 (Apr 2024)](https://journals.aps.org/prl/accepted/d4074Y47W3416e7df8874f00d8997d9265249c3d0)
 
 
 - **Xiang Gao, Wei‐Yang Liu, Yong Zhao**,<br /> 
   *Parton Distributions from Boosted Fields in the Coulomb Gauge,*<br/>
-  [Phys.Rev. D 109 (May 2024)](https://journals.aps.org/prd/accepted/3c07bY67T3615f98d4e12c183a68b1bc207422181)
+  [Phys. Rev. D 109, 094506 (Apr 2024)](https://journals.aps.org/prd/accepted/3c07bY67T3615f98d4e12c183a68b1bc207422181)
 
 - **X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn and Y. Zhao**,<br/>
   *Transversity PDFs of the proton from lattice QCD with physical quark masses,*<br/>
@@ -76,7 +196,7 @@ title: Publications
 
 - **Yoshitaka Hatta, Feng Yuan**,<br/>
   *Angular dependence in transverse momentum dependent diffractive parton distributions at small-x*,<br/>
-  [Phys.Lett.B 854 (Jul 2024)](https://inspirehep.net/literature/2772336)
+  [Phys. Lett. B 854 (Mar 2024)](https://inspirehep.net/literature/2772336)
 
 - **Mary Alberg, Gerald A. Miller**,<br/>
   *Quark Counting, Drell-Yan West, and the Pion Wave Function*,<br/>
@@ -92,7 +212,7 @@ title: Publications
 
 - **Florian Hechenberger, Kiminad A. Mamo, Ismail Zahed**,<br/>
   *Holographic odderon at TOTEM?*,<br/>
-  [Phys.Rev.D 109 (Feb 2024)](https://inspirehep.net/literature/2721067)
+  [ Phys.Rev.D 109 (Feb 2024) ](https://inspirehep.net/literature/2721067)
 
 - **Shohini Bhattacharya
     , Krzysztof Cichy
@@ -106,19 +226,19 @@ title: Publications
     , Fernanda Steffens
     , Yong Zhao**,<br/>
   *Generalized parton distributions from lattice QCD with asymmetric momentum transfer: Axial-vector case*,<br/>
-  [Phys.Rev.D 109 (Feb 2024)](https://inspirehep.net/literature/2713085)
+  [Phys. Rev. D 109 (Feb 2024)](https://inspirehep.net/literature/2713085)
 
 - **Fangcheng He, Ismail Zahed**,<br/>
   *Deuteron gravitational form factors: exchange currents*,<br/>
-  [Phys.Rev.C 110 (Jul 2024)](https://inspirehep.net/literature/2747749)
+  [Phys. Rev. C 110.014312  (Jan 2024)](https://inspirehep.net/literature/2747749)
 
 - **Bigeng Wang, Fangcheng He, Gen Wang, Terrence Draper, Jian Liang, Keh-Fei Liu, Yi-Bo Yang**,<br/>
   *Trace anomaly form factors from lattice QCD*,<br/> 
-  [Phys.Rev.D 109 (May 2024)](https://inspirehep.net/literature/2745662)
+  [Phys. Rev. D 109.094504  (Jan 2024)](https://inspirehep.net/literature/2745662)
 
 - **Yuxun Guo, Xiangdong Ji, Feng Yuan**,<br/>
   *Proton's gluon GPDs at large skewness and gravitational form factors from near threshold heavy quarkonium photo‐production*,<br/> 
-  [Phys.Rev.D 109 (Jan 2024)](https://inspirehep.net/literature/2691007)
+  [Phys. Rev. D 109 (Jan 2024)](https://inspirehep.net/literature/2691007)
 
 - **F. Aslan
     , M. Boglione
@@ -169,9 +289,10 @@ title: Publications
   *Colloquium: Gravitational Form Factors of the Proton*,<br/> 
   [Rev. Mod. Phys. 95 (Oct 2023)](https://inspirehep.net/literature/2642379)
 
+
 - **Daniel C. Hackett, Dimitra A. Pefkou, Phiala E. Shanahan**,<br/>
   *Gravitational form factors of the proton from lattice QCD* <br/>
-  [Unpublished (Oct 2023)](https://inspirehep.net/literature/2709825)
+  [Phys. Rev. Lett.132.251904 (Oct 2023)](https://inspirehep.net/literature/2709825)
 
 - **Shohini Bhattacharya, Krzysztof Cichy, Martha Constantinou, Jack Dodson, Andreas Metz, Aurora Scapellato, Fernanda Steffens**,<br/>
   *Chiral‐even axial twist‐3 GPDs of the proton from lattice QCD*,<br/> 
