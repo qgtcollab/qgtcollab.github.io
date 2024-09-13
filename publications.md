@@ -1,6 +1,55 @@
 ---
 title: Publications
 ---
+
+- **Swagato Mukherjee, 
+Dennis Bollweg, 
+Xiang Gao, 
+Yong Zhao**,<br/>
+*Non-perturbative Collins-Soper kernel: Chiral quarks and Coulomb-gauge-fixed quasi-TMD*,<br/>
+[e-Print: 2407.10739 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2807708)
+
+- **Ian Cloet, 
+Xiang Gao, 
+Swagato Mukherjee, 
+Sergey Syritsyn, 
+Nikhil Karthik, 
+Peter Petreczky, 
+Rui Zhang, 
+Yong Zhao**,<br/>
+*Lattice QCD Calculation of  x-dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation*,<br/> 
+[e-Print: 2407.00206 [hep-lat] (Jun 2024)](https://inspirehep.net/literature/2803470)
+
+
+- **Stefan Diehl, 
+Kyungseon Joo, 
+Kirill Semenov-Tian-Shansky, 
+Christian Weiss, 
+Vladimir Braun, 
+Wen-Chen Chang, 
+Pierre Chatagnon, 
+Martha Constantinou, 
+Yuxun Guo, 
+Parada T.P. Hutauruk, 
+Hyon-Suk Jo, 
+Andrey Kim, 
+Jun-Young Kim, 
+Peter Kroll, 
+Shunzo Kumano, 
+Chang-Hwan Lee, 
+Simonetta Liuti, 
+Ronan McNulty, 
+Hyeon-Dong Son, 
+Pawel Sznajder, 
+Ali Usman, 
+Charlotte Van Hulse, 
+Marc Vanderhaeghen, 
+Michael Winn**,<br>
+*Exploring Baryon Resonances with Transition Generalized Parton Distributions: Status and Perspectives*,<br/>
+[e-Print: 2405.15386 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789950)
+
+
+
 - **Nicholas Miesch, 
 Edward Shuryak**,<br/>
 *Wave functions of multiquark hadrons from representations of the symmetry groups Sn*,<br/>
