@@ -2,71 +2,29 @@
 title: Publications
 ---
 
-- **Swagato Mukherjee, 
-Dennis Bollweg, 
-Xiang Gao, 
-Yong Zhao**,<br/>
-*Non-perturbative Collins-Soper kernel: Chiral quarks and Coulomb-gauge-fixed quasi-TMD*,<br/>
-[e-Print: 2407.10739 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2807708)
-
-- **Ian Cloet, 
-Xiang Gao, 
-Swagato Mukherjee, 
-Sergey Syritsyn, 
-Nikhil Karthik, 
-Peter Petreczky, 
-Rui Zhang, 
-Yong Zhao**,<br/>
-*Lattice QCD Calculation of  x-dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation*,<br/> 
-[e-Print: 2407.00206 [hep-lat] (Jun 2024)](https://inspirehep.net/literature/2803470)
+- **Shohini Bhattacharya, 
+  Krzysztof Cichy, 
+  Martha Constantinou, 
+  Andreas Metz, 
+  Niilo Nurminen, 
+  Fernanda Steffens**,<br/>
+ *Generalized parton distributions from the pseudodistribution approach on the lattice*,<br/> 
+  [Phys.Rev.D. 110.054502 (Sep 2024)](https://inspirehep.net/literature/2783983)
 
 
-- **Stefan Diehl, 
-Kyungseon Joo, 
-Kirill Semenov-Tian-Shansky, 
-Christian Weiss, 
-Vladimir Braun, 
-Wen-Chen Chang, 
-Pierre Chatagnon, 
-Martha Constantinou, 
-Yuxun Guo, 
-Parada T.P. Hutauruk, 
-Hyon-Suk Jo, 
-Andrey Kim, 
-Jun-Young Kim, 
-Peter Kroll, 
-Shunzo Kumano, 
-Chang-Hwan Lee, 
-Simonetta Liuti, 
-Ronan McNulty, 
-Hyeon-Dong Son, 
-Pawel Sznajder, 
-Ali Usman, 
-Charlotte Van Hulse, 
-Marc Vanderhaeghen, 
-Michael Winn**,<br>
-*Exploring Baryon Resonances with Transition Generalized Parton Distributions: Status and Perspectives*,<br/>
-[e-Print: 2405.15386 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789950)
+- **Hervé Dutrieux, 
+  Robert G. Edwards, 
+  Colin Egerer, 
+  Joseph Karpie, 
+  Christopher Monahan, 
+  Kostas Orginos,
+  Anatoly Radyushkin, 
+  David Richards, 
+  Eloy Romero, 
+  Savvas Zafeiropoulos**,<br/>
+  *Towards unpolarized GPDs from pseudo-distributions*,<br/>
+  [JHEP08 162 (Aug 2024)](https://inspirehep.net/literature/2787398)
 
-
-
-- **Nicholas Miesch, 
-Edward Shuryak**,<br/>
-*Wave functions of multiquark hadrons from representations of the symmetry groups Sn*,<br/>
-[e-Print: 2406.05024 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2796032)
-
-- **Yuxun Guo, 
-Xiaohui Liu, 
-Feng Yuan**,<br/>
-*Long Range Energy-energy Correlator at the LHC*,<br/>
-[e-Print: 2408.14693 [hep-ph] (Aug 2024)](https://inspirehep.net/literature/2822108)
-
-- **Xiang Gao, 
-Jinchen He, 
-Rui Zhang, 
-Yong Zhao**,<br/>
-*Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge*,<br/>
-[e-Print: 2408.05910 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2817213)
 
 - **Ignacio Castelli, 
 Adam Freese, 
@@ -84,6 +42,30 @@ Rui Zhang,
 Yong Zhao**,<br/>
 *Comments on "Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
 [e-Print: 2408.04674 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2816860)
+
+
+- **Yuxun Guo, 
+Xiaohui Liu, 
+Feng Yuan**,<br/>
+*Long Range Energy-energy Correlator at the LHC*,<br/>
+[e-Print: 2408.14693 [hep-ph] (Aug 2024)](https://inspirehep.net/literature/2822108)
+
+- **Xiang Gao, 
+Jinchen He, 
+Rui Zhang, 
+Yong Zhao**,<br/>
+*Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge*,<br/>
+[e-Print: 2408.05910 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2817213)
+
+
+
+- **Swagato Mukherjee, 
+Dennis Bollweg, 
+Xiang Gao, 
+Yong Zhao**,<br/>
+*Non-perturbative Collins-Soper kernel: Chiral quarks and Coulomb-gauge-fixed quasi-TMD*,<br/>
+[e-Print: 2407.10739 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2807708)
+
 
 - **Joe Karpie, 
 Christopher Monahan, 
@@ -143,6 +125,55 @@ Ismail Zahed,**,<br/>
 *Quasi-fragmentation functions in the massive Schwinger model*,<br/>
 [e-Print: 2406.01891 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2794365)
 
+
+- **Ian Cloet, 
+Xiang Gao, 
+Swagato Mukherjee, 
+Sergey Syritsyn, 
+Nikhil Karthik, 
+Peter Petreczky, 
+Rui Zhang, 
+Yong Zhao**,<br/>
+*Lattice QCD Calculation of  x-dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation*,<br/> 
+[e-Print: 2407.00206 [hep-lat] (Jun 2024)](https://inspirehep.net/literature/2803470)
+
+- **Nicholas Miesch, 
+Edward Shuryak**,<br/>
+*Wave functions of multiquark hadrons from representations of the symmetry groups Sn*,<br/>
+[e-Print: 2406.05024 [hep-ph] (Jun 2024)](https://inspirehep.net/literature/2796032)
+
+
+- **Stefan Diehl, 
+Kyungseon Joo, 
+Kirill Semenov-Tian-Shansky, 
+Christian Weiss, 
+Vladimir Braun, 
+Wen-Chen Chang, 
+Pierre Chatagnon, 
+Martha Constantinou, 
+Yuxun Guo, 
+Parada T.P. Hutauruk, 
+Hyon-Suk Jo, 
+Andrey Kim, 
+Jun-Young Kim, 
+Peter Kroll, 
+Shunzo Kumano, 
+Chang-Hwan Lee, 
+Simonetta Liuti, 
+Ronan McNulty, 
+Hyeon-Dong Son, 
+Pawel Sznajder, 
+Ali Usman, 
+Charlotte Van Hulse, 
+Marc Vanderhaeghen, 
+Michael Winn**,<br>
+*Exploring Baryon Resonances with Transition Generalized Parton Distributions: Status and Perspectives*,<br/>
+[e-Print: 2405.15386 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789950)
+
+
+
+
+
 - **Wei-Yang Liu, 
 Edward Shuryak, 
 Ismail Zahed**,<br/>
@@ -156,27 +187,7 @@ Ismail Zahed**,<br/>
 *Pion gravitational form factors in the QCD instanton vacuum I*,<br/>
 [e-Print: 2405.14026 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789192)
 
-- **Hervé Dutrieux, 
-  Robert G. Edwards, 
-  Colin Egerer, 
-  Joseph Karpie, 
-  Christopher Monahan, 
-  Kostas Orginos,
-  Anatoly Radyushkin, 
-  David Richards, 
-  Eloy Romero, 
-  Savvas Zafeiropoulos**,<br/>
-  *Towards unpolarized GPDs from pseudo-distributions*,<br/>
-  [JHEP08 162 (Aug 2024)](https://inspirehep.net/literature/2787398)
 
-- **Shohini Bhattacharya, 
-  Krzysztof Cichy, 
-  Martha Constantinou, 
-  Andreas Metz, 
-  Niilo Nurminen, 
-  Fernanda Steffens**,<br/>
- *Generalized parton distributions from the pseudodistribution approach on the lattice*,<br/> 
-  [Phys.Rev.D. 110.054502 (Sep 2024)](https://inspirehep.net/literature/2783983)
 
 - **D. Bollweg, 
   X. Gao, 
