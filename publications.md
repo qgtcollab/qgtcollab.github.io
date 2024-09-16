@@ -35,13 +35,6 @@ Simone Rodini**,<br/>
 *Perturbative results of matrix elements of the axial current and their relation with the axial anomaly*,<br/>
 [e-Print: 2408.00554 [hep-ph] (Aug 2024)](https://inspirehep.net/literature/2813770)
 
-- **Xiang Gao, 
-Jinchen He, 
-Yushan Su, 
-Rui Zhang, 
-Yong Zhao**,<br/>
-*Comments on "Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
-[e-Print: 2408.04674 [hep-lat] (Aug 2024)](https://inspirehep.net/literature/2816860)
 
 
 - **Yuxun Guo, 
