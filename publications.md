@@ -52,14 +52,6 @@ Yong Zhao**,<br/>
 
 
 
-- **Swagato Mukherjee, 
-Dennis Bollweg, 
-Xiang Gao, 
-Yong Zhao**,<br/>
-*Non-perturbative Collins-Soper kernel: Chiral quarks and Coulomb-gauge-fixed quasi-TMD*,<br/>
-[e-Print: 2407.10739 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2807708)
-
-
 - **Joe Karpie, 
 Christopher Monahan, 
 Anatoly Radyushkin**,<br/>
