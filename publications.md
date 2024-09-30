@@ -3,7 +3,7 @@ title: Publications
 ---
 
 
-- ** Krzysztof Cichy, 
+- **Krzysztof Cichy, 
   Martha Constantinou, 
   Paweł Sznajder, 
   Jakub Wagner**,<br/>
