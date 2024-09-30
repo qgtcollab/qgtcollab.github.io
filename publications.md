@@ -2,6 +2,23 @@
 title: Publications
 ---
 
+
+- ** Krzysztof Cichy, 
+  Martha Constantinou, 
+  Paweł Sznajder, 
+  Jakub Wagner**,<br/>
+  *Nucleon tomography and total angular momentum of valence quarks from synergy between lattice QCD and elastic scattering data*,<br/>
+  [e-Print: 2409.17955 [hep-ph] (Sep 2024)](https://inspirehep.net/literature/2833821)
+
+- **Yuxun Guo,
+  Xiangdong Ji, 
+  M. Gabriel Santiago, 
+  Jinghong Yang, 
+  Hao-Cheng Zhang**,<br/>
+  *Small-x gluon GPD constrained from deeply virtual J/Psi production and gluon PDF through universal-moment parameterization*,<br/>
+  [e-Print: 2409.17231 [hep-ph] (Sep 2024)](https://inspirehep.net/literature/2833822)
+
+
 - **Shohini Bhattacharya, 
   Krzysztof Cichy, 
   Martha Constantinou, 
