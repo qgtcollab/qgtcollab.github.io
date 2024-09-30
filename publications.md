@@ -2,6 +2,22 @@
 title: Publications
 ---
 
+- **Kemal Tezgin, 
+  Brean Maynard, 
+  Peter Schweitzer**,<br/>
+  *Chiral-odd GPDs in the bag model*,<br/>
+  [Phys.Rev.D 110 (2024) 5](https://inspirehep.net/literature/2778381)
+
+
+- **Ignacio Castelli, 
+  Adam Freese, 
+  Cédric Lorcé, 
+  Andreas Metz, 
+  Barbara Pasquini, 
+  Simone Rodini**,<br/>
+  *Perturbative results of matrix elements of the axial current and their relation with the axial anomaly*,<br/>
+  [Phys.Lett.B 857 (2024)](https://inspirehep.net/literature/2813770)
+
 
 - **Krzysztof Cichy, 
   Martha Constantinou, 
@@ -221,10 +237,6 @@ Ismail Zahed**,<br/>
 - **Kiminad A. Mamo,  Ismail Zahed**,<br/>
   *String-based parametrization of nucleon GPDs at any skewness: a comparison to lattice QCD*,<br/>
   [Unpublished (Apr 2024)](https://inspirehep.net/literature/2779456)
-
-- **Kemal Tezgin, Brean Maynard, Peter Schweitzer**,<br/>
-  *Chiral-odd GPDs in the bag model*,<br/>
-  [Unpublished (Apr 2024)](https://inspirehep.net/literature/2778381)
   
 - **Sebastian Grieninger, Kazuki Ikeda, Ismail Zahed**,<br/>
   *Quasi-parton distributions in massive QED2: Towards quantum computation*,<br/>
