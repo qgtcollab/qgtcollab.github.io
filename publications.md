@@ -196,14 +196,14 @@ Michael Winn**,<br>
 Edward Shuryak, 
 Ismail Zahed**,<br/>
 *Pion gravitational form factors in the QCD instanton vacuum II*,<br/>
-[e-Print: 2405.16269 [hep-ph] (May 2024)](https://inspirehep.net/literature/2790356)
+[Phys.Rev.D 110 (2024) 5, 054022](https://inspirehep.net/literature/2790356)
 
 - **Wei-Yang Liu, 
 Edward Shuryak, 
 Christian Weiss, 
 Ismail Zahed**,<br/>
 *Pion gravitational form factors in the QCD instanton vacuum I*,<br/>
-[e-Print: 2405.14026 [hep-ph] (May 2024)](https://inspirehep.net/literature/2789192)
+[Phys.Rev.D 110 (2024) 5, 054021](https://inspirehep.net/literature/2789192)
 
 
 
@@ -224,7 +224,7 @@ Ismail Zahed**,<br/>
     , Rui Zhang
     , Yong Zhao**,<br/>
   *QCD Predictions for Meson Electromagnetic Form Factors at High Momenta: Testing Factorization in Exclusive Processes*,<br/>
-  [Unpublished (Apr 2024)](https://inspirehep.net/literature/2774995)
+  [e-Print: 2404.04412 [hep-lat]](https://inspirehep.net/literature/2774995)
 
 - **Fangcheng He, Ismail Zahed**,<br/>
   *Gravitational form factors of light nuclei: Impulse approximation*,<br/>
@@ -244,7 +244,7 @@ Ismail Zahed**,<br/>
 
 - **Wei-Yang Liu, Ismail Zahed**,<br/>
  *Photo-production of $\eta_{c,b}$ near Threshold*, <br/>
- [Unpublished (Apr 2024)](https://inspirehep.net/literature/2774552)<br/>
+ [Phys.Rev.D 110 (2024) 5, 054025](https://inspirehep.net/literature/2774552)<br/>
 
 - **Wei-Yang Liu, Edward Shuryak, Ismail Zahed**, <br/>
   *Glue in hadrons at medium resolution and the QCD instanton vacuum*<br/>
