@@ -8,15 +8,18 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Recent events
 <hr style="border:2px solid gray">
 
-- Collaboration Meeting: Temple University, Philadelphia, PA, September 8-9, 2023  [Link](https://sites.temple.edu/qgt2023/)
+
+- First International School of Hadron Femtography JLab, September 16-25, 2024 [link](https://indico.jlab.org/event/846/)
+
+- 2nd QGT Collaboration All-Hands Meeting JLab, September 13-14, 2024 [link](https://indico.jlab.org/event/881/)
 
 
-## Recent press & highlights <span style="font-size:0.5em;">(updated on Apr 9 2024) </span> 
+## Recent press & highlights <span style="font-size:0.5em;">(updated on Feb 11 2025) </span> 
 <hr style="border:2px solid gray">
 
+- [Nucleon GPDs in nonlocal chiral effective theory](/highlights/0006.html)
 - [The proton as seen with a finite speed of light](/highlights/0005.html)
 - [Visualization of mass distribution within hadrons](/highlights/0004.html) 
-- [Shedding Light on Shadow Generalized Parton Distributions](/highlights/0003.html) 
 
 see more [here](/highlights.html).
 

@@ -16,3 +16,5 @@ title: Press & Highlights
 
 - [The proton as seen with a finite speed of light](/highlights/0005.html)
 
+- [Nucleon GPDs in nonlocal chiral effective theory](/highlights/0006.html)
+

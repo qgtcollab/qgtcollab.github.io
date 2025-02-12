@@ -2,6 +2,13 @@
 title: Publications
 ---
 
+
+- **June-Young Kim
+   ,Christian Weiss**,<br/>
+   *Chiral-odd generalized parton distributions in the large-N_c limit of QCD: Spin-flavor structure, polynomiality, sum rules*,<br/>
+    [e-Print: 2411.17634 [hep-ph] (Nov 2024)](https://inspirehep.net/literature/2852151)
+
+
 - **F. Aslan
     , M. Boglione
     , J.O. Gonzalez-Hernandez
@@ -463,12 +470,17 @@ Michael Winn**,<br>
   [Phys. Rev. D 107 (Apr 2023)](https://inspirehep.net/literature/2618174)
 
 
+- **P. Wang
+    , Fangcheng He
+    , Chueng-Ryong Ji
+    , W. Melnitchouk**, <br/>
+    *Nucleon form factors and parton distributions in nonlocal chiral effective theory*,<br/>
+[Prog. Part. Nucl. Phys. 129, 104017 (Mar 2023)](https://inspirehep.net/literature/2098181)
+
+
 - **Yuxun Guo, Xiangdong Ji, M. Gabriel Santiago, Kyle Shiells, Jinghong Yang**,<br/>
   *Generalized parton distributions through universal moment parameterization: non‐zero skewness case*,<br/>
   [JHEP 05 150 (Feb 2023)](https://inspirehep.net/literature/2632776)
-
-
-
 
 
 
