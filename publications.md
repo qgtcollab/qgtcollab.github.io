@@ -162,7 +162,7 @@ Yong Zhao**,<br/>
 Christopher Monahan, 
 Anatoly Radyushkin**,<br/>
 *Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
-[e-Print: 2407.16577 [hep-lat] (Jul 2024)](https://inspirehep.net/literature/2810373)
+ [Phys. Rev. D 111 (Mar 2025)](https://inspirehep.net/literature/2810373)<br/>
 
 - **Fangcheng He, Ismail Zahed**,<br/>
 *Threshold photo-production of J/Psi off light nuclei*,<br/>
