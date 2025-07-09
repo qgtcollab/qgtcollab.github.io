@@ -41,7 +41,7 @@ Recent Highlights (see also, https://sites.google.com/lbl.gov/qgttheory/progress
 
 Colloquium: Gravitational Form Factors of the Proton
 
-V. D. Burkert, L. Elouadrhiri, F. X. Girod, C. Lorce, P. Schweitzer, and P. E. Shanahan, Rev.Mod.Phys. 95 (2023) 4, 041002
+V. D. Burkert, L. Elouadrhiri, F. X. Girod, C. Lorce, P. Schweitzer, and P. E. Shanahan, [Rev.Mod.Phys. 95 (2023) 4, 041002] (https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.95.041002)
 
 The matrix elements of the energy-momentum tensor are the key to understanding how the properties and structure of particles like the proton arise from their quark and gluon constituents. These matrix elements are described in terms of gravitational form factors, which encode such fundamental information as the proton’s mass, spin and the less well-known but equally fundamental D-term. Moreover, the form factor associated with the D-term is related to the stress tensor and internal forces in the proton, providing access to its `mechanical properties’, which has emerged as a vibrant research field in its own right. This article presents the immense progress in the physics of gravitational form factors including the mass and spin decompositions of the nucleon and its mechanical properties. The authors review at an accessible colloquium-style level the advances in theory, experiments, first-principle lattice QCD studies, model calculations and the interpretation of these fundamental quantities.
 
