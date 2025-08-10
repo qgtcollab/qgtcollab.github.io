@@ -75,7 +75,7 @@ Gravitational form factors from near threshold heavy quarkonium photo-production
 
 Yuxun Guo, Xiangdong Ji, Feng Yuan, Proton's gluon GPDs at large skewness and gravitational form factors from near threshold heavy quarkonium photo-production,  [Phys.Rev.D 109 (2024) 1, 014014](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.014014)
 
-![image](/highlights/images/Jpsi.png)
+![image](/highlights/images/Jpsi.jpg)
 
 We study the exclusive near-threshold photo-production of heavy quarkonium in the framework of the GPD factorization, taking the J/ψ production as an example. Due to the threshold kinematics, the Compton-like amplitudes are related to gluon GPDs at large skewness ξ, distinct from the common kinematics in asymptotic high energy where the skewness is typically small. We discuss the nature of large-ξ expansion of these amplitudes in terms of the moments of gluon GPDs in the large-ξ limit. Based on that, we propose several ways to extract the first few moments of the gluon GPDs from these amplitudes, with the leading ones corresponding to the gluonic gravitational or energy-momentum tensor form factors (GFFs). We apply these methods to analyze the recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration, and find that the ξ-scaling of the measured differential cross sections is consistent with the asymptotic behavior. However, the current data are not accurate enough yet for a complete determination of the gluonic GFFs, and therefore we consider some prospects for better extractions in the future.
 
