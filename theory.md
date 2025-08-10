@@ -18,6 +18,8 @@ In particular, our research will focus on the following subjects:
 
 (5) Beyond GPDs: Wigner Distributions
 
+# Milestones 
+
 The milestones from the theory working group are in three main categories: 1) application of perturbative QCD to hard exclusive processes; 2) non-perturbative methods, including and the Covariant Parton Model; and 3) processes at small-x. 
 
 Year 1: Analyze factorization for exclusive quarkonia production at leading power for all regions using SCET and NRQCD, including the large and small $Q^2$ regions and quarkonia production at threshold
@@ -27,7 +29,6 @@ Apply the light-front Hamiltonian method to compute the GPDs, explore the nucleo
 Year 2: Make quantitative connection of the GPD factorization formalism to the CGC/color-dipole formalism for various exclusive processes
 
 Apply the Covariant Parton Model to the GPDs of quark and gluons, eventually the parton Wigner distributions
-
 
 Year 3: Use SCET to investigate factorization at subleading power in DVCS, including hadron mass corrections and the factorization and resummation of potential endpoint singularities
 
