@@ -51,7 +51,7 @@ Nucleon-Energy-Energy-Correlators to Probe Quantum Entanglement at the LHC
 
 Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Correlation, Entanglement, and Bell Inequality Violation by Spinning Gluons at the Large Hadron Collider, [Science Partner Journal, Research, Vol 2025, Article ID: 0552](https://spj.science.org/doi/10.34133/research.0552), Published 5 Feb 2025
 
-![image](/highlights/images/LongRangeCorrelation.png)
+![image](/highlights/images/LongRangeCorrelation.jpg)
 
 The newly developed concept of the nucleon energy–energy correlator (NEEC) for the gluon sector is applied to investigate the long-range azimuthal angular correlations in proton–proton collisions at the Large Hadron Collider. The spinning gluon in these collisions will introduce substantial nonzero cos(2ϕ) asymmetries in both Higgs boson and top quark pair productions, where ϕ is the azimuthal angle between the forward and backward energy correlators in the NEEC observables. The genesis of the cos(2ϕ) correlation lies in the intricate quantum entanglement. Owing to the substantial cos(2ϕ) effect, the NEEC observable in Higgs boson and ttbar production emerges as a pivotal avenue for delving into quantum entanglement and scrutinizing the Bell inequality at high-energy colliders.
 
@@ -97,7 +97,7 @@ Nucleon GPDs in nonlocal chiral effective theory
 
 Zhengyang Gao, Fangcheng He, Chueng-Ryong Ji, W. Melnitchouk, Y. Salamu and P. Wang, Nonlocal chiral contributions to generalized parton distributions of the proton at nonzero skewness, [Phys. Rev. D110, 054049 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.054049). Published 30 September, 2024
 
-![image](/highlights/images/006.jpg)
+![image](/highlights/images/006.png)
 
 The spin-averaged GPDs Hq and Eq for the u and d quarks in the nucleon, as well as their moments, were studied in the framework of nonlocal chiral effective field theory (EFT). Chiral EFT is a powerful tool for studying flavor asymmetries in quark distributions, particularly those associated with the pion cloud of the nucleon. Nonlocal EFT imposes local gauge invariance and generates a covariant correlation function, which renders loop integrals convergent, and extends the range of applicability of the theory to larger momentum transfers than in local EFT. The obtained three-dimensional GPDs can then be used to compute physical observables up to momentum transfers squared of t = 1 GeV2 and compared with experiment.
 
