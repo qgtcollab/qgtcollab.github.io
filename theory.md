@@ -38,10 +38,10 @@ Quantitative study of hard diffractive dijet and di-hadron production at future 
 Year 5: Study relativistic corrections and other subleading effects in heavy quarkonia production for cases where such corrections are likely to be important
 
 
-# The Science
-Recent Highlights (see also, [https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0](https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0)):
+# Recent Highlights
+(see also, [https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0](https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0)):
 
-Colloquium: Gravitational Form Factors of the Proton
+# Colloquium: Gravitational Form Factors of the Proton
 
 V. D. Burkert, L. Elouadrhiri, F. X. Girod, C. Lorce, P. Schweitzer, and P. E. Shanahan, [[Rev.Mod.Phys. 95 (2023) 4, 041002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.95.041002)] (https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.95.041002)
 
@@ -49,7 +49,7 @@ V. D. Burkert, L. Elouadrhiri, F. X. Girod, C. Lorce, P. Schweitzer, and P. E. S
  
 The matrix elements of the energy-momentum tensor are the key to understanding how the properties and structure of particles like the proton arise from their quark and gluon constituents. These matrix elements are described in terms of gravitational form factors, which encode such fundamental information as the proton’s mass, spin and the less well-known but equally fundamental D-term. Moreover, the form factor associated with the D-term is related to the stress tensor and internal forces in the proton, providing access to its `mechanical properties’, which has emerged as a vibrant research field in its own right. This article presents the immense progress in the physics of gravitational form factors including the mass and spin decompositions of the nucleon and its mechanical properties. The authors review at an accessible colloquium-style level the advances in theory, experiments, first-principle lattice QCD studies, model calculations and the interpretation of these fundamental quantities.
 
-Nucleon-Energy-Energy-Correlators to Probe Quantum Entanglement at the LHC
+# Nucleon-Energy-Energy-Correlators to Probe Quantum Entanglement at the LHC
 
 Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Correlation, Entanglement, and Bell Inequality Violation by Spinning Gluons at the Large Hadron Collider, [Science Partner Journal, Research, Vol 2025, Article ID: 0552](https://spj.science.org/doi/10.34133/research.0552), Published 5 Feb 2025
 
@@ -57,7 +57,7 @@ Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Corr
 
 The newly developed concept of the nucleon energy–energy correlator (NEEC) for the gluon sector is applied to investigate the long-range azimuthal angular correlations in proton–proton collisions at the Large Hadron Collider. The spinning gluon in these collisions will introduce substantial nonzero cos(2ϕ) asymmetries in both Higgs boson and top quark pair productions, where ϕ is the azimuthal angle between the forward and backward energy correlators in the NEEC observables. The genesis of the cos(2ϕ) correlation lies in the intricate quantum entanglement. Owing to the substantial cos(2ϕ) effect, the NEEC observable in Higgs boson and ttbar production emerges as a pivotal avenue for delving into quantum entanglement and scrutinizing the Bell inequality at high-energy colliders.
 
-String Theory Inspiration for the GPD Models
+# String Theory Inspiration for the GPD Models
 
 Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distributions from t-Channel String Exchange in AdS Spaces, [Phys.Rev.Lett. 133 (2024) 24, 241901](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.241901), Published 10 December, 2024
 
@@ -65,7 +65,7 @@ Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distribu
 
 A string-based parametrization for nucleon quark and gluon generalized parton distributions (GPDs) is introduced. This approach leverages conformal moments, representing them as the sum of spin-j nucleon A-form factor and skewness-dependent spin-j nucleon D-form factor, derived from t-channel string exchange in AdS spaces consistent with Lorentz invariance and unitarity. This model-independent framework, satisfying the polynomiality condition due to Lorentz invariance, uses Mellin moments from empirical data to estimate these form factors. With just five Regge slope parameters, our method accurately produces various nucleon quark GPD types and symmetric nucleon gluon GPDs through pertinent Mellin-Barnes integrals. Our isovector nucleon quark GPD is in agreement with existing lattice data, promising to improve the empirical extraction and global analysis of nucleon GPDs in exclusive processes, by avoiding the deconvolution problem at any skewness, for the first time.
 
-Quark Counting Rule Revisted for Pion Structure Function and Form Factor
+# Quark Counting Rule Revisted for Pion Structure Function and Form Factor
 
 Mary Alberg and Gerald A. Miller, Quark counting, Drell-Yan West, and the pion wave function, [Phys.Rev.C 110 (2024) 4, L042201](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.L042201) Published: Oct 4, 2024
 
@@ -73,7 +73,7 @@ Mary Alberg and Gerald A. Miller, Quark counting, Drell-Yan West, and the pion w
 
 The relation between the pion's quark distribution function, q(x), its light-front wave function, and the elastic charge form factor, F(𝑄2), is explored. The square of the leading-twist pion wave function at a special probe scale, ζH, is determined using models and Poincaré covariance from realistic results for q(x). This wave function is then used to compute form factors with the result that the Drell-Yan-West and quark counting relationships are not satisfied. A new relationship between q(x) and F(𝑄2) is proposed.
 
-Gravitational form factors from near threshold heavy quarkonium photo-production
+# Gravitational form factors from near threshold heavy quarkonium photo-production
 
 Yuxun Guo, Xiangdong Ji, Feng Yuan, Proton's gluon GPDs at large skewness and gravitational form factors from near threshold heavy quarkonium photo-production,  [Phys.Rev.D 109 (2024) 1, 014014](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.014014)
 
@@ -81,7 +81,7 @@ Yuxun Guo, Xiangdong Ji, Feng Yuan, Proton's gluon GPDs at large skewness and gr
 
 We study the exclusive near-threshold photo-production of heavy quarkonium in the framework of the GPD factorization, taking the J/ψ production as an example. Due to the threshold kinematics, the Compton-like amplitudes are related to gluon GPDs at large skewness ξ, distinct from the common kinematics in asymptotic high energy where the skewness is typically small. We discuss the nature of large-ξ expansion of these amplitudes in terms of the moments of gluon GPDs in the large-ξ limit. Based on that, we propose several ways to extract the first few moments of the gluon GPDs from these amplitudes, with the leading ones corresponding to the gluonic gravitational or energy-momentum tensor form factors (GFFs). We apply these methods to analyze the recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration, and find that the ξ-scaling of the measured differential cross sections is consistent with the asymptotic behavior. However, the current data are not accurate enough yet for a complete determination of the gluonic GFFs, and therefore we consider some prospects for better extractions in the future.
 
-Spin-Orbital Correlations in Nucleons in the Large-Nc Limit
+# Spin-Orbital Correlations in Nucleons in the Large-Nc Limit
 
 June-Young Kim, Ho-Yeon Won, Hyun-Chul Kim, Christian Weiss, Spin-orbit correlations in the nucleon in the large-Nc limit, [Phys.Rev.D 110 (2024) 5, 054026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.054026), Published: Sep 1, 2024
 
@@ -89,13 +89,13 @@ June-Young Kim, Ho-Yeon Won, Hyun-Chul Kim, Christian Weiss, Spin-orbit correlat
 
 Spin-orbit correlations of quarks and gluons represents the next frontier after	 the study of the spin and orbital angular momentum distributions. The spin-orbit correlations are measured by the matrix elements of certain twist-3 QCD operators, which generalize the QCD energy-momentum tensor and can be connected with GPDs. In this paper, the spin-orbit correlations were analyzed in the large-Nc limit of QCD, where the dynamics becomes semiclassical and the nucleon can be described in a mean-field picture. It was shown that the effective spin-flavor interactions induced by chiral symmetry breaking have a major effect on the spin-orbit correlations of quarks and qualitatively change them compared to the quark model picture.
 
-Nonlinear extensions of the Schr¨odinger equation
+# Nonlinear extensions of the Schr¨odinger equation
 
 Tom Dodge, Peter Schweitzer, Exactly solvable models of nonlinear extensions of the Schr¨odinger equation, [Physica D 476 (2025) 134666](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001459?via%3Dihub), Published: Apr 9, 2025
 
 A method is presented to construct exactly solvable nonlinear extensions of the Schr¨odinger equation. The method explores a correspondence which can be established under certain conditions between exactly solvable ordinary Schr¨odinger equations and exactly solvable nonlinear theories. We provide several examples illustrating the method. We rederive well-known soliton solutions and find new exactly solvable nonlinear theories in various space dimensions which, to the best of our knowledge, have not yet been discussed in literature. Our method can be used to construct further nonlinear theories and generalized to relativistic soliton theories, and may have many applications
 
-Nucleon GPDs in nonlocal chiral effective theory
+# Nucleon GPDs in nonlocal chiral effective theory
 
 Zhengyang Gao, Fangcheng He, Chueng-Ryong Ji, W. Melnitchouk, Y. Salamu and P. Wang, Nonlocal chiral contributions to generalized parton distributions of the proton at nonzero skewness, [Phys. Rev. D110, 054049 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.054049). Published 30 September, 2024
 
@@ -107,7 +107,7 @@ This study derived generalized convolution formulas for nonzero skewness GPDs, w
 
 See also: P. Wang, Fangcheng He, Chueng-Ryong Ji and W. Melnitchouk, Nucleon form factors and parton distributions in nonlocal chiral effective theory, [Prog. Part. Nucl. Phys. 129, 104017 (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0146641022000758?via%3Dihub).
 
-The proton as seen with a finite speed of light
+# The proton as seen with a finite speed of light
 
 Adam Freese and Gerald A. Miller, Synchronization effects on rest frame energy and momentum densities in the proton, [Phys.Rev.D 108 (2023) 9, 094026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.094026). Published 16 November, 2023
 
@@ -117,7 +117,7 @@ This work shows how relativistic effects can be fully accounted for in the image
 
 When using light front synchronization, a proton in any state of motion actually does have the same structure, allowing experimental images to be unblurred in a relativistically exact way. Moreover, these enhanced images contain optical effects arising from the finite speed of light, such as redshifts and blueshifts, and are in effect images of what the proton looks like to an observer seeing the proton using light fronts.
 
-Bayesian Inferring Nucleon's Gravitational Form Factors
+# Bayesian Inferring Nucleon's Gravitational Form Factors
 
 Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction, [[arXiv:2501.10532 [hep-ph]](https://arxiv.org/abs/2501.10532)].
 
@@ -125,7 +125,7 @@ Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation F
 
 Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction With Bayesian inference, we investigate the impact of recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration on the extraction of proton's gravitational form factors. We apply the generalized parton distribution framework at the next-to-leading order and demonstrate a stable expansion for the near-threshold kinematics. We find that the experimental constraints are in good agreement with the state-of-the-art lattice simulations, where negative Cq(t) and Cg(t) are strongly preferred. This highlights a great potential to extract them from future high-precision experiments.
 
-Theory Advance in Exclusive Photoproduction of Heavy Quarkonia
+# Theory Advance in Exclusive Photoproduction of Heavy Quarkonia
 
 Sarah K. Blask, Sean Fleming, Thomas Mehen, Jyotirmoy Roy, Iain W. Stewart, Fanyi Zhao, Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold, [e-Print: 2506.18905 [hep-ph]
 ](https://arxiv.org/abs/2506.18905)
