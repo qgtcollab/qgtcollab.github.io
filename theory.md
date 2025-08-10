@@ -37,7 +37,7 @@ Quantitative study of hard diffractive dijet and di-hadron production at future 
 
 Year 5: Study relativistic corrections and other subleading effects in heavy quarkonia production for cases where such corrections are likely to be important
 
-Recent Highlights (see also, https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0):
+Recent Highlights (see also, [https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0](https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0)):
 
 Colloquium: Gravitational Form Factors of the Proton
 
@@ -47,19 +47,19 @@ The matrix elements of the energy-momentum tensor are the key to understanding h
 
 Nucleon-Energy-Energy-Correlators to Probe Quantum Entanglement at the LHC
 
-Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Correlation, Entanglement, and Bell Inequality Violation by Spinning Gluons at the Large Hadron Collider, Science Partner Journal, Research, Vol 2025, Article ID: 0552, Published 5 Feb 2025
+Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Correlation, Entanglement, and Bell Inequality Violation by Spinning Gluons at the Large Hadron Collider, [Science Partner Journal, Research, Vol 2025, Article ID: 0552](https://spj.science.org/doi/10.34133/research.0552), Published 5 Feb 2025
 
 The newly developed concept of the nucleon energy–energy correlator (NEEC) for the gluon sector is applied to investigate the long-range azimuthal angular correlations in proton–proton collisions at the Large Hadron Collider. The spinning gluon in these collisions will introduce substantial nonzero cos(2ϕ) asymmetries in both Higgs boson and top quark pair productions, where ϕ is the azimuthal angle between the forward and backward energy correlators in the NEEC observables. The genesis of the cos(2ϕ) correlation lies in the intricate quantum entanglement. Owing to the substantial cos(2ϕ) effect, the NEEC observable in Higgs boson and ttbar production emerges as a pivotal avenue for delving into quantum entanglement and scrutinizing the Bell inequality at high-energy colliders.
 
 String Theory Inspiration for the GPD Models
 
-Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distributions from t-Channel String Exchange in AdS Spaces, Phys.Rev.Lett. 133 (2024) 24, 241901, Published 10 December, 2024
+Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distributions from t-Channel String Exchange in AdS Spaces, [Phys.Rev.Lett. 133 (2024) 24, 241901]([url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.241901)), Published 10 December, 2024
 
 A string-based parametrization for nucleon quark and gluon generalized parton distributions (GPDs) is introduced. This approach leverages conformal moments, representing them as the sum of spin-j nucleon A-form factor and skewness-dependent spin-j nucleon D-form factor, derived from t-channel string exchange in AdS spaces consistent with Lorentz invariance and unitarity. This model-independent framework, satisfying the polynomiality condition due to Lorentz invariance, uses Mellin moments from empirical data to estimate these form factors. With just five Regge slope parameters, our method accurately produces various nucleon quark GPD types and symmetric nucleon gluon GPDs through pertinent Mellin-Barnes integrals. Our isovector nucleon quark GPD is in agreement with existing lattice data, promising to improve the empirical extraction and global analysis of nucleon GPDs in exclusive processes, by avoiding the deconvolution problem at any skewness, for the first time.
 
 Quark Counting Rule Revisted for Pion Structure Function and Form Factor
 
-Mary Alberg and Gerald A. Miller, Quark counting, Drell-Yan West, and the pion wave function, Phys.Rev.C 110 (2024) 4, L042201 Published: Oct 4, 2024
+Mary Alberg and Gerald A. Miller, Quark counting, Drell-Yan West, and the pion wave function, [Phys.Rev.C 110 (2024) 4, L042201]([url](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.L042201)) Published: Oct 4, 2024
 
 The relation between the pion's quark distribution function, q(x), its light-front wave function, and the elastic charge form factor, F(𝑄2), is explored. The square of the leading-twist pion wave function at a special probe scale, ζH, is determined using models and Poincaré covariance from realistic results for q(x). This wave function is then used to compute form factors with the result that the Drell-Yan-West and quark counting relationships are not satisfied. A new relationship between q(x) and F(𝑄2) is proposed.
 
