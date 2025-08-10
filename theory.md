@@ -123,7 +123,7 @@ Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation F
 
 ![image](/highlights/images/Bayesian.png)
 
-Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction With Bayesian inference, we investigate the impact of recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration on the extraction of proton's gravitational form factors. We apply the generalized parton distribution framework at the next-to-leading order and demonstrate a stable expansion for the near-threshold kinematics. We find that the experimental constraints are in good agreement with the state-of-the-art lattice simulations, where negative Cq(t) and Cg(t) are strongly preferred. This highlights a great potential to extract them from future high-precision experiments.
+With Bayesian inference, we investigate the impact of recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration on the extraction of proton's gravitational form factors. We apply the generalized parton distribution framework at the next-to-leading order and demonstrate a stable expansion for the near-threshold kinematics. We find that the experimental constraints are in good agreement with the state-of-the-art lattice simulations, where negative Cq(t) and Cg(t) are strongly preferred. This highlights a great potential to extract them from future high-precision experiments.
 
 # Theory Advance in Exclusive Photoproduction of Heavy Quarkonia
 
