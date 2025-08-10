@@ -97,6 +97,8 @@ The proton as seen with a finite speed of light
 
 Adam Freese and Gerald A. Miller, Synchronization effects on rest frame energy and momentum densities in the proton, [Phys.Rev.D 108 (2023) 9, 094026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.094026). Published 16 November, 2023
 
+![image](/highlights/images/proton_energy_density.png)
+
 This work shows how relativistic effects can be fully accounted for in the image enhancement by using an alternate time synchronization convention. Essentially, one should consider everything they see in the direction of the proton as happening in the present. Normally—under what’s called the Einstein synchronization convention—distant events are considered to happen in the past, and a two-way signal needs to be bounced between two locations to determine the time delay and properly synchronize clocks at these locations. But these clocks are only synchronized in a single reference frame, and desynchronized in any other frame. On the other hand, if multiple clocks are set to a common time at the moment a single wave-front of light passes through them—a convention we call light front synchronization—then these clocks can still be seen as synchronized by an observer in any state of motion.
 
 When using light front synchronization, a proton in any state of motion actually does have the same structure, allowing experimental images to be unblurred in a relativistically exact way. Moreover, these enhanced images contain optical effects arising from the finite speed of light, such as redshifts and blueshifts, and are in effect images of what the proton looks like to an observer seeing the proton using light fronts.
