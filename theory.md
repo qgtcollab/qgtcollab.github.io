@@ -75,6 +75,8 @@ Spin-Orbital Correlations in Nucleons in the Large-Nc Limit
 
 June-Young Kim, Ho-Yeon Won, Hyun-Chul Kim, Christian Weiss, Spin-orbit correlations in the nucleon in the large-Nc limit, [Phys.Rev.D 110 (2024) 5, 054026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.054026), Published: Sep 1, 2024
 
+![image](/highlights/images/0006.jpg)
+
 Spin-orbit correlations of quarks and gluons represents the next frontier after	 the study of the spin and orbital angular momentum distributions. The spin-orbit correlations are measured by the matrix elements of certain twist-3 QCD operators, which generalize the QCD energy-momentum tensor and can be connected with GPDs. In this paper, the spin-orbit correlations were analyzed in the large-Nc limit of QCD, where the dynamics becomes semiclassical and the nucleon can be described in a mean-field picture. It was shown that the effective spin-flavor interactions induced by chiral symmetry breaking have a major effect on the spin-orbit correlations of quarks and qualitatively change them compared to the quark model picture.
 
 Nonlinear extensions of the Schr¨odinger equation
