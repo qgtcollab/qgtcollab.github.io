@@ -97,7 +97,7 @@ Nucleon GPDs in nonlocal chiral effective theory
 
 Zhengyang Gao, Fangcheng He, Chueng-Ryong Ji, W. Melnitchouk, Y. Salamu and P. Wang, Nonlocal chiral contributions to generalized parton distributions of the proton at nonzero skewness, [Phys. Rev. D110, 054049 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.054049). Published 30 September, 2024
 
-![image](/highlights/images/0006.png)
+![image](/highlights/images/0006.jpg)
 
 The spin-averaged GPDs Hq and Eq for the u and d quarks in the nucleon, as well as their moments, were studied in the framework of nonlocal chiral effective field theory (EFT). Chiral EFT is a powerful tool for studying flavor asymmetries in quark distributions, particularly those associated with the pion cloud of the nucleon. Nonlocal EFT imposes local gauge invariance and generates a covariant correlation function, which renders loop integrals convergent, and extends the range of applicability of the theory to larger momentum transfers than in local EFT. The obtained three-dimensional GPDs can then be used to compute physical observables up to momentum transfers squared of t = 1 GeV2 and compared with experiment.
 
