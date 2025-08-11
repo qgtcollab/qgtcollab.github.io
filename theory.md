@@ -135,4 +135,4 @@ Sarah K. Blask, Sean Fleming, Thomas Mehen, Jyotirmoy Roy, Iain W. Stewart, Fany
 
 Non-relativistic QCD (NRQCD) is used to calculate the relativistic correction to the amplitude for exclusive photoproduction of vector Quarkonia in the near-threshold region within the generalized parton distribution (GPD) framework. The relativistic corrections are found to be large for J/ψ. Cross-sections for both J/ψ and Υ are calculated with the former being compared to the data. We also demonstrate the presence of endpoint divergences for the relativistic correction away from the near-threshold regime.
 
-This work is dedicate to the memory of Thomas Mehen (1970- 2024) and Fanyi Zhao (1996-2024), both of whom tragically passed away before the publi- cation of this work.
+This work is dedicate to the memory of Thomas Mehen (1970- 2024) and Fanyi Zhao (1996-2024).
