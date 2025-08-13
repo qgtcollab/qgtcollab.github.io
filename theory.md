@@ -42,6 +42,22 @@ Year 5: Study relativistic corrections and other subleading effects in heavy qua
 # Recent Highlights
 (see also, [https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0](https://sites.google.com/lbl.gov/qgttheory/progress?authuser=0)):
 
+# Bayesian Inferring Nucleon's Gravitational Form Factors
+
+Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction, to appear in Physical Review Letters, [[arXiv:2501.10532 [hep-ph]](https://arxiv.org/abs/2501.10532)].
+
+![image](/highlights/images/Bayesian.png)
+
+With Bayesian inference, we investigate the impact of recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration on the extraction of proton's gravitational form factors. We apply the generalized parton distribution framework at the next-to-leading order and demonstrate a stable expansion for the near-threshold kinematics. We find that the experimental constraints are in good agreement with the state-of-the-art lattice simulations, where negative Cq(t) and Cg(t) are strongly preferred. This highlights a great potential to extract them from future high-precision experiments.
+
+# String Theory Inspiration for the GPD Models
+
+Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distributions from t-Channel String Exchange in AdS Spaces, [Phys.Rev.Lett. 133 (2024) 24, 241901](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.241901), Published 10 December, 2024
+
+![image](/highlights/images/String.png)
+
+A string-based parametrization for nucleon quark and gluon generalized parton distributions (GPDs) is introduced. This approach leverages conformal moments, representing them as the sum of spin-j nucleon A-form factor and skewness-dependent spin-j nucleon D-form factor, derived from t-channel string exchange in AdS spaces consistent with Lorentz invariance and unitarity. This model-independent framework, satisfying the polynomiality condition due to Lorentz invariance, uses Mellin moments from empirical data to estimate these form factors. With just five Regge slope parameters, our method accurately produces various nucleon quark GPD types and symmetric nucleon gluon GPDs through pertinent Mellin-Barnes integrals. Our isovector nucleon quark GPD is in agreement with existing lattice data, promising to improve the empirical extraction and global analysis of nucleon GPDs in exclusive processes, by avoiding the deconvolution problem at any skewness, for the first time.
+
 # Colloquium: Gravitational Form Factors of the Proton
 
 V. D. Burkert, L. Elouadrhiri, F. X. Girod, C. Lorce, P. Schweitzer, and P. E. Shanahan, [[Rev.Mod.Phys. 95 (2023) 4, 041002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.95.041002)] (https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.95.041002)
@@ -57,14 +73,6 @@ Yuxun Guo , Xiaohui Liu , Feng Yuan, and Hua Xing Zhu, Long-Range Azimuthal Corr
 ![image](/highlights/images/LongRangeCorrelation.jpg)
 
 The newly developed concept of the nucleon energy–energy correlator (NEEC) for the gluon sector is applied to investigate the long-range azimuthal angular correlations in proton–proton collisions at the Large Hadron Collider. The spinning gluon in these collisions will introduce substantial nonzero cos(2ϕ) asymmetries in both Higgs boson and top quark pair productions, where ϕ is the azimuthal angle between the forward and backward energy correlators in the NEEC observables. The genesis of the cos(2ϕ) correlation lies in the intricate quantum entanglement. Owing to the substantial cos(2ϕ) effect, the NEEC observable in Higgs boson and ttbar production emerges as a pivotal avenue for delving into quantum entanglement and scrutinizing the Bell inequality at high-energy colliders.
-
-# String Theory Inspiration for the GPD Models
-
-Kiminad A. Mamo and Ismail Zahed, Parametrization of Generalized Parton Distributions from t-Channel String Exchange in AdS Spaces, [Phys.Rev.Lett. 133 (2024) 24, 241901](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.241901), Published 10 December, 2024
-
-![image](/highlights/images/String.png)
-
-A string-based parametrization for nucleon quark and gluon generalized parton distributions (GPDs) is introduced. This approach leverages conformal moments, representing them as the sum of spin-j nucleon A-form factor and skewness-dependent spin-j nucleon D-form factor, derived from t-channel string exchange in AdS spaces consistent with Lorentz invariance and unitarity. This model-independent framework, satisfying the polynomiality condition due to Lorentz invariance, uses Mellin moments from empirical data to estimate these form factors. With just five Regge slope parameters, our method accurately produces various nucleon quark GPD types and symmetric nucleon gluon GPDs through pertinent Mellin-Barnes integrals. Our isovector nucleon quark GPD is in agreement with existing lattice data, promising to improve the empirical extraction and global analysis of nucleon GPDs in exclusive processes, by avoiding the deconvolution problem at any skewness, for the first time.
 
 # Quark Counting Rule Revisted for Pion Structure Function and Form Factor
 
@@ -117,14 +125,6 @@ Adam Freese and Gerald A. Miller, Synchronization effects on rest frame energy a
 This work shows how relativistic effects can be fully accounted for in the image enhancement by using an alternate time synchronization convention. Essentially, one should consider everything they see in the direction of the proton as happening in the present. Normally—under what’s called the Einstein synchronization convention—distant events are considered to happen in the past, and a two-way signal needs to be bounced between two locations to determine the time delay and properly synchronize clocks at these locations. But these clocks are only synchronized in a single reference frame, and desynchronized in any other frame. On the other hand, if multiple clocks are set to a common time at the moment a single wave-front of light passes through them—a convention we call light front synchronization—then these clocks can still be seen as synchronized by an observer in any state of motion.
 
 When using light front synchronization, a proton in any state of motion actually does have the same structure, allowing experimental images to be unblurred in a relativistically exact way. Moreover, these enhanced images contain optical effects arising from the finite speed of light, such as redshifts and blueshifts, and are in effect images of what the proton looks like to an observer seeing the proton using light fronts.
-
-# Bayesian Inferring Nucleon's Gravitational Form Factors
-
-Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction, [[arXiv:2501.10532 [hep-ph]](https://arxiv.org/abs/2501.10532)].
-
-![image](/highlights/images/Bayesian.png)
-
-With Bayesian inference, we investigate the impact of recent near-threshold J/ψ production measurements by the J/ψ 007 experiment and GlueX collaboration on the extraction of proton's gravitational form factors. We apply the generalized parton distribution framework at the next-to-leading order and demonstrate a stable expansion for the near-threshold kinematics. We find that the experimental constraints are in good agreement with the state-of-the-art lattice simulations, where negative Cq(t) and Cg(t) are strongly preferred. This highlights a great potential to extract them from future high-precision experiments.
 
 # Theory Advance in Exclusive Photoproduction of Heavy Quarkonia
 
