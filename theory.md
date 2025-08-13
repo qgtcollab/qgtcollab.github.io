@@ -110,7 +110,7 @@ Spin-orbit correlations of quarks and gluons represents the next frontier after	
 
 The figure here illustrates the emergence of baryons from the effective dynamics. (a) Correlation function of baryon currents in the large-Nc limit. (b) Spatial form of the classical chiral field (hedgehog). (c) Quark single-particle spectrum in the background of the classical chiral field.
 
-# Nonlinear extensions of the Schrodinger equation
+# Nonlinear extensions of the Schrödinger equation
 
 Tom Dodge, Peter Schweitzer, Exactly solvable models of nonlinear extensions of the Schr¨odinger equation, [Physica D 476 (2025) 134666](https://www.sciencedirect.com/science/article/abs/pii/S0167278925001459?via%3Dihub), Published: Apr 9, 2025
 
