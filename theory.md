@@ -44,7 +44,7 @@ Year 5: Study relativistic corrections and other subleading effects in heavy qua
 
 # Bayesian Inferring Nucleon's Gravitational Form Factors
 
-Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction, to appear in Physical Review Letters, [[arXiv:2501.10532 [hep-ph]](https://arxiv.org/abs/2501.10532)].
+Yuxun Guo, Feng Yuan and Wenbin Zhao, Bayesian Inferring Nucleon's Gravitation Form Factors via Near-threshold J/ψ Photoproduction, [to appear in Physical Review Letters](https://doi.org/10.1103/3x7r-ythq), [[arXiv:2501.10532 [hep-ph]](https://arxiv.org/abs/2501.10532)].
 
 ![image](/highlights/images/Bayesian.png)
 
