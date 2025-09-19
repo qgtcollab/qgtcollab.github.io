@@ -14,9 +14,7 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Recent press & highlights <span style="font-size:0.5em;"></span> 
 <hr style="border:2px solid gray">
 
-- [Nucleon GPDs in nonlocal chiral effective theory](/highlights/0006.html)
-- [The proton as seen with a finite speed of light](/highlights/0005.html)
-- [Visualization of mass distribution within hadrons](/highlights/0004.html) 
+- [Quantum calculations provide a sharper image of subatomic stress](https://phys.org/news/2025-09-quantum-sharper-image-subatomic-stress.html)
 
 see more [here](/highlights.html).
 
