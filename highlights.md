@@ -1,9 +1,11 @@
 ---
 title: Press & Highlights
+classes: wide
 ---
 <hr style="border:2px solid gray">
 
 **2025**
+
 - [Quantum calculations provide a sharper image of subatomic stress](https://phys.org/news/2025-09-quantum-sharper-image-subatomic-stress.html)
 
 **2024**

@@ -1,5 +1,6 @@
 ---
 title: Quark-Gluon Tomography collaboration
+classes: wide
 ---
 
 <hr style="border:2px solid gray">

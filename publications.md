@@ -1,5 +1,6 @@
 ---
 title: Publications
+classes: wide
 ---
 
 **2025**

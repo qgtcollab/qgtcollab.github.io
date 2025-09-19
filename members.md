@@ -1,5 +1,6 @@
 ---
 title: Members
+classes: wide
 ---
 <hr style="border:2px solid gray">
 
