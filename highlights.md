@@ -3,6 +3,7 @@ title: Press & Highlights
 ---
 <hr style="border:2px solid gray">
 
+- [Quantum calculations provide a sharper image of subatomic stress](https://phys.org/news/2025-09-quantum-sharper-image-subatomic-stress.html)
 
 - [Theory Offers a High-Resolution View of Quarks Inside Protons](https://www.energy.gov/science/np/articles/theory-offers-high-resolution-view-quarks-inside-protons)
 
