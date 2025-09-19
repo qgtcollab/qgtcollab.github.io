@@ -3,6 +3,7 @@ title: Events
 ---
 <hr style="border:2px solid gray">
 
+- 3rd QGT Collaboration All-Hands Meeting JLab, September 19-20, 2025 [link](https://indico.phy.anl.gov/event/62/overview)
 
 - First International School of Hadron Femtography JLab, September 16-25, 2024 [link](https://indico.jlab.org/event/846/)
 

@@ -8,13 +8,10 @@ This collaborative effort supported by US Department of Energy (DOE) aims to del
 ## Recent events
 <hr style="border:2px solid gray">
 
-
-- First International School of Hadron Femtography JLab, September 16-25, 2024 [link](https://indico.jlab.org/event/846/)
-
-- 2nd QGT Collaboration All-Hands Meeting JLab, September 13-14, 2024 [link](https://indico.jlab.org/event/881/)
+- 3rd QGT Collaboration All-Hands Meeting JLab, September 19-20, 2025 [link](https://indico.phy.anl.gov/event/62/overview)
 
 
-## Recent press & highlights <span style="font-size:0.5em;">(updated on Feb 11 2025) </span> 
+## Recent press & highlights <span style="font-size:0.5em;"></span> 
 <hr style="border:2px solid gray">
 
 - [Nucleon GPDs in nonlocal chiral effective theory](/highlights/0006.html)
