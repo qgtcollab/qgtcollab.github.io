@@ -3,6 +3,7 @@ title: Publications
 classes: wide
 ---
 
+
 **2025**
 
 - **W.-Y. Liu, I. Ahed** ,<br/>
@@ -13,9 +14,21 @@ classes: wide
 *Effective Field Theory Factorization for Diffraction*,<br/>
 [e-Print: 2508.10231 (Aug 2025)](https://inspirehep.net/literature/2960502)
 
+- **Kevin Braga, Markus Diefenthaler, Steven Goldenberg, Daniel Lersch, Yaohang Li, Jian-Wei Qiu, Kishansingh Rajput, Felix Ringer, Nobuo Sato, Malachi Schram**,<br/>
+*Toward an event-level analysis of hadron structure using differential programming*,<br/>
+[e-Print: 2507.15768 (Jul 2025)](https://inspirehep.net/literature/2952185)
+
 - **June-Young Kim, Christian Weiss**,<br/>
 *Tensor-polarized parton density in the N → Δ transition*,<br/>
 [e-Print: 2507.18402 (Jul 2025)](https://inspirehep.net/literature/2954235)
+
+- **Jack Y. Araz, Vinicius Mikuni, Felix Ringer, Nobuo Sato, Fernando Torales Acosta, Richard Whitehill**,<br/>
+*Point cloud-based diffusion models for the Electron-Ion Collider*,<br/>
+[Phys.Lett.B 868 (Jun 2025)](https://inspirehep.net/literature/2843821)
+
+- **Adam Freese**,<br/>
+*Reflections on Noether's second theorem and the energy-momentum tensor*,<br/>
+[e-Print: 2506.04510 (Jun 2025)](https://inspirehep.net/literature/2929752)
 
 - **Sarah K. Blask, Sean Fleming, Thomas Mehen,  Jyotirmoy Roy, Iain W. Stewart,  Fanyi Zhao**,<br/>
 *Relativistic corrections to exclusive photoproduction of Quarkonia near-threshold*,<br/>
@@ -60,6 +73,14 @@ classes: wide
 - **W.-Y. Liu, I. Zahed** ,<br/>
 *Tomography of Pions and Kaons in the QCD Vacuum: Transverse Momentum Dependent Parton Distribution Functions*,<br/>
 [Phys.Rev.D 112 (Feb 2025)](https://inspirehep.net/literature/2880258)
+
+- **Quantum stresses in the hydrogen atom**,<br/>
+*Adam Freese*,<br/>
+[Phys.Rev.D 111 (Feb 2025)](https://inspirehep.net/literature/2859392)
+
+- **A. Freese, D. Adamiak, I. Cloët, W. Melnitchouk, J.-W. Qiu, N. Sato and M. Zaccheddu**,<br/>
+*Kernel methods for evolution of generalized parton distributions*,<br/>
+[Comput.Phys.Commun. 311 (Feb 2025)](https://inspirehep.net/literature/2860861)
 
 - **P. Caucal, F. Salazar** ,<br/>
 *Transverse momentum dependent factorisation in the target fragmentation region at small x*,<br/>
