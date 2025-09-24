@@ -46,9 +46,17 @@ classes: wide
 *The anomalous magnetic moment of the muon in the Standard Model: an update*,<br/>
 [Phys. Rept. 1143 (May 2025)](https://inspirehep.net/literature/2925594)  
 
+- **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Window observables for benchmarking parton distribution functions*,<br/>
+[e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464)
+
 - **A. Freese** ,<br/>
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
 [Phys. Rev. D 112 (May 2025)](https://inspirehep.net/literature/2919771)
+
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Inverse problem in the LaMET framework*,<br/>
+[e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
 
 - **C. Weiss** ,<br/>
 *Gluonic structure from instantons*,<br/>
@@ -62,7 +70,7 @@ classes: wide
 *Momentum Flow and Forces on Quarks in the Nucleon*,<br/>
 [e-Print: 2503.01991 (Mar 2025)](https://inspirehep.net/literature/2896597)
 
-- ** P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
+- **P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
 *Unveiling the sea: universality of the transverse momentum dependent quark distributions at small x*,<br/>
 [e-Print: 2503.16162 (Mar 2025)](https://inspirehep.net/literature/2902117)  
  
