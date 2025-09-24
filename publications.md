@@ -22,6 +22,10 @@ classes: wide
 *Tensor-polarized parton density in the N → Δ transition*,<br/>
 [e-Print: 2507.18402 (Jul 2025)](https://inspirehep.net/literature/2954235)
 
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"*,<br/>
+[e-Print: 2506.24037 (Jun 2025)](https://inspirehep.net/literature/2915254)
+
 - **Jack Y. Araz, Vinicius Mikuni, Felix Ringer, Nobuo Sato, Fernando Torales Acosta, Richard Whitehill**,<br/>
 *Point cloud-based diffusion models for the Electron-Ion Collider*,<br/>
 [Phys.Lett.B 868 (Jun 2025)](https://inspirehep.net/literature/2843821)
