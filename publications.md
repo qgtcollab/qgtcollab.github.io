@@ -31,6 +31,10 @@ classes: wide
 *Tensor-polarized parton density in the N → Δ transition*,<br/>
 [e-Print: 2507.18402 (Jul 2025)](https://inspirehep.net/literature/2954235)
 
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"*,<br/>
+[e-Print: 2506.24037 (Jun 2025)](https://inspirehep.net/literature/2915254)
+
 - **Jack Y. Araz, Vinicius Mikuni, Felix Ringer, Nobuo Sato, Fernando Torales Acosta, Richard Whitehill**,<br/>
 *Point cloud-based diffusion models for the Electron-Ion Collider*,<br/>
 [Phys.Lett.B 868 (Jun 2025)](https://inspirehep.net/literature/2843821)
@@ -55,9 +59,17 @@ classes: wide
 *The anomalous magnetic moment of the muon in the Standard Model: an update*,<br/>
 [Phys. Rept. 1143 (May 2025)](https://inspirehep.net/literature/2925594)  
 
+- **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Window observables for benchmarking parton distribution functions*,<br/>
+[e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464)
+
 - **A. Freese** ,<br/>
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
 [Phys. Rev. D 112 (May 2025)](https://inspirehep.net/literature/2919771)
+
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Inverse problem in the LaMET framework*,<br/>
+[e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
 
 - **C. Weiss** ,<br/>
 *Gluonic structure from instantons*,<br/>
@@ -71,7 +83,7 @@ classes: wide
 *Momentum Flow and Forces on Quarks in the Nucleon*,<br/>
 [e-Print: 2503.01991 (Mar 2025)](https://inspirehep.net/literature/2896597)
 
-- ** P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
+- **P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
 *Unveiling the sea: universality of the transverse momentum dependent quark distributions at small x*,<br/>
 [e-Print: 2503.16162 (Mar 2025)](https://inspirehep.net/literature/2902117)  
  
