@@ -6,6 +6,15 @@ classes: wide
 
 **2025**
 
+
+- **Debarshi Mukherjee, Dilan Arik, Navneeth C, Sufiyan Mirza, Ameer Mustafa, Rajath R, Anantha Srinivasan, Preksha Uniyal, Martha Constantinou**,<br/>
+*The Energy Spectrum of the Pion from Lattice QCD*,<br/>
+[e-Print: 2508.05721 (Aug 2025)](https://inspirehep.net/literature/2958453)
+
+- **Min-Huan Chu, Manuel Colaço, Shohini Bhattacharya, Krzysztof Cichy, Martha Constantinou, Andreas Metz, Fernanda Steffens**,<br/> 
+*Generalized Parton Distributions from Lattice QCD with Asymmetric Momentum Transfer: Unpolarized Quarks at Nonzero Skewness*,<br/>
+[e-Print: 2508.17998 (Aug 2025)](https://inspirehep.net/literature/2963564)
+
 - **W.-Y. Liu, I. Ahed** ,<br/>
 *Tomography of the Rho meson in the QCD Instanton Vacuum: Transverse Momentum Dependent Parton Distribution Functions*,<br/>
 [Phys. Rev. D 112 (Aug 2025)](https://inspirehep.net/literature/2900979)
@@ -102,7 +111,7 @@ classes: wide
 
 - **K.-F. Liu**,<br/>
 *Lattice QCD and the Neutron Electric Dipole Moment*,<br/>
-[e-Print: 2411.15198 (Nov 2024)](https://inspirehep.net/literature/2851632)
+[Ann. Rev. Nucl. Part. Sci. 75, 377 (Nov 2024)](https://inspirehep.net/literature/2851632)
   
   
 - **D.-H. Li, K.-F. Liu et al. [χQCD Collaboration]**,<br/>
@@ -181,7 +190,7 @@ classes: wide
 
 - **Krzysztof Cichy, Martha Constantinou, Paweł Sznajder, Jakub Wagner**,<br/>
 *Nucleon tomography and total angular momentum of valence quarks from synergy between lattice QCD and elastic scattering data*,<br/>
-[e-Print: 2409.17955 (Sep 2024)](https://inspirehep.net/literature/2833821)
+[Phys. Rev. D 110 (Sep 2024)](https://inspirehep.net/literature/2833821)
 
 - **Yuxun Guo, Xiangdong Ji, M. Gabriel Santiago, Jinghong Yang, Hao-Cheng Zhang**,<br/>
 *Small-x gluon GPD constrained from deeply virtual J/Psi production and gluon PDF through universal-moment parameterization*,<br/>
