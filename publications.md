@@ -6,6 +6,9 @@ classes: wide
 
 **2025**
 
+- **Gerald A. Miller**,<br/> 
+*On the Impossibility of Obtaining Time-Independent, Three-Dimensional, Spherically-Symmetric Densities of Confined Systems of Relativistically Moving Constituents*,<br/>
+[e-Print: 2507.14388 (Jul 2025) - acceted by PRC](https://inspirehep.net/literature/2952146)
 
 - **Debarshi Mukherjee, Dilan Arik, Navneeth C, Sufiyan Mirza, Ameer Mustafa, Rajath R, Anantha Srinivasan, Preksha Uniyal, Martha Constantinou**,<br/>
 *The Energy Spectrum of the Pion from Lattice QCD*,<br/>
