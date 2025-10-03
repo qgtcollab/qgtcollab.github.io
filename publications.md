@@ -3,7 +3,6 @@ title: Publications
 classes: wide
 ---
 
-
 **2025**
 
 - **Gerald A. Miller**,<br/> 
@@ -25,6 +24,10 @@ classes: wide
 - **Kyle Lee,  Stella T. Schindler, Iain W. Stewart**,<br/>
 *Effective Field Theory Factorization for Diffraction*,<br/>
 [e-Print: 2508.10231 (Aug 2025)](https://inspirehep.net/literature/2960502)
+
+- **Parton Distribution Functions and their Generalizations**,<br/>
+*C. Lorcé, A. Metz, B. Pasquini and P. Schweitzer*,<br/> 
+[e-Print: 2507.12664 (Jul 2025)](https://inspirehep.net/literature/2951301)
 
 - **Kevin Braga, Markus Diefenthaler, Steven Goldenberg, Daniel Lersch, Yaohang Li, Jian-Wei Qiu, Kishansingh Rajput, Felix Ringer, Nobuo Sato, Malachi Schram**,<br/>
 *Toward an event-level analysis of hadron structure using differential programming*,<br/>
@@ -70,6 +73,10 @@ classes: wide
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
 [Phys. Rev. D 112 (May 2025)](https://inspirehep.net/literature/2919771)
 
+- **T. Dodge and P. Schweitzer**,<br/>
+ *Analytic soliton solutions of nonlinear extensions of the Schrödinger equation*,<br/>
+[Physica D 476  134666 (Apr 2025)](https://inspirehep.net/literature/2648413)
+
 - **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
 *Inverse problem in the LaMET framework*,<br/>
 [e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
@@ -109,6 +116,10 @@ classes: wide
 - **P. Caucal, F. Salazar** ,<br/>
 *Transverse momentum dependent factorisation in the target fragmentation region at small x*,<br/>
 [e-Print: 2502.02634 (Feb 2025)](https://inspirehep.net/literature/2876636)
+
+- **C. Lorcé and P. Schweitzer**,<br/>
+*Pressure inside hadrons: criticism, conjectures, and all that*,<br/>
+[Acta Phys.Polon.B 56 (Jan 2025)](https://inspirehep.net/literature/2866202)
 
 - **W.-Y. Liu, I. Zahed** ,<br/>
 *Nucleon electric dipole form factor in QCD vacuum*,<br/>
