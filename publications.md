@@ -81,6 +81,22 @@ classes: wide
 *Window observables for benchmarking parton distribution functions*,<br/>
 [e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464) To appear in Physical Review Letters.
 
+- **Jiunn-Wei Chen, Xiang Gao, Jinchen He, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, Qi-An Zhang, Rui Zhang, Yong Zhao** ,<br/>
+*LaMET’s Asymptotic Extrapolation vs. Inverse Problem*,<br/>
+[e-Print: 2505.14619 (May 2025)](https://inspirehep.net/literature/2922794)
+
+- **Shohini Bhattacharya, Martha Constantinou, Andreas Metz, Joshua Miller**,<br/>
+*Generalized Parton Distributions from Lattice QCD with Asymmetric Momentum Transfer: Tensor Case*,<br/>
+[e-Print: 2505.11288 (May 2025)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=arXiv%3A2505.11288&ui-citation-summary=true)
+
+- **Dennis Bollweg, Xiang Gao, Jinchen He, Swagato Mukherjee, Yong Zhao** ,<br/>
+*Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF*,<br/>
+[Phys. Rev. D 112 (Apr 2025)](https://inspirehep.net/literature/2908599)
+
+- **June-Young Kim, Christian Weiss**,<br/>
+*Chiral-odd generalized parton distributions in the large-N_c limit of QCD: Spin-flavor structure, polynomiality, sum rules*,<br/>
+[Phys. Rev. D 111 (Apr 2025)](https://inspirehep.net/literature/2852151)
+
 - **A. Freese** ,<br/>
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
 [Phys. Rev. D 112 (May 2025)](https://inspirehep.net/literature/2919771)
@@ -89,9 +105,13 @@ classes: wide
  *Analytic soliton solutions of nonlinear extensions of the Schrödinger equation*,<br/>
 [Physica D 476  134666 (Apr 2025)](https://inspirehep.net/literature/2648413)
 
-- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos**, <br/>
 *Inverse problem in the LaMET framework*,<br/>
 [e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
+
+- **Wei-Yang Liu, Ismail Zahed, Yong Zhao**, <br/>
+*Collins-Soper kernel in the QCD instanton vacuum,*<br/>
+[Phys.Rev.D 111 ( Apr 2025) (Dec 2024)](https://inspirehep.net/literature/2864322)
 
 - **C. Weiss** ,<br/>
 *Gluonic structure from instantons*,<br/>
@@ -107,8 +127,16 @@ classes: wide
 
 - **P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
 *Unveiling the sea: universality of the transverse momentum dependent quark distributions at small x*,<br/>
-[e-Print: 2503.16162 (Mar 2025)](https://inspirehep.net/literature/2902117)  
+[e-Print: 2503.16162 (Mar 2025)](https://inspirehep.net/literature/2902117)
+
+- **Joe Karpie, Christopher Monahan, Anatoly Radyushkin**,<br/>
+*Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
+[Phys. Rev. D 111 (Mar 2025)](https://inspirehep.net/literature/2810373)<br/>
  
+- **A. Bora, A. Mandal, S. Mittal, M. Pandey, R. Rana, H. Saxena, P. Jana, R. Dhumane, T. Bhowmik, M. Constantinou**,<br/> 
+*The Energy Spectrum of Kaon from Lattice QCD*, <br/>
+[e-Print: 2503.19396 (Mar 2025)](https://inspirehep.net/literature/2903807)
+
 - **T. Shen, Y. Chen, M. Gong, D.-H. Li, K.-F. Liu, Z. Liu, Z. Zhang**,<br/>
 *Form factors in semileptonic decay of D mesons*,<br/>
 [PoS LATTICE2024 (Feb 2025)](https://inspirehep.net/literature/2878919)
@@ -141,7 +169,24 @@ classes: wide
 *Generic framework for non-perturbative QCD in light hadrons*,<br/>
 [e-Print: 2501.07776 (Jan 2025)](https://inspirehep.net/literature/2868859)
 
+- **R. Zhang, A. Grebe, D. Hackett, M. Wagman, Y. Zhao** ,<br/>
+*Kinematically-enhanced interpolating operators for boosted hadrons*,<br/>
+[Phys.Rev.D 112  (Jan 2025)](https://inspirehep.net/literature/2864302)
+
+- **Yuxun Guo, Feng Yuan, Wenbin Zhao**,<br/>
+*Bayesian Inferring Nucleon Gravitational Form Factors via Near-Threshold J/Psi Photoproduction*,<br/>
+[Phys. Rev. Lett. 135 (Jan 2025)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=2501.10532&ui-citation-summary=true)
+
+- **J. Holligan, H.-W. Lin, R. Zhang, Y. Zhao** ,<br/>
+*Resummation for Lattice QCD Calculation of Generalized Parton Distributions at Nonzero Skewness*,<br/>
+[JHEP 207  241 (Jan 2025)](https://inspirehep.net/literature/2874446)    
+ 
+
 **2024**
+
+- **J.-Y. Kim, K. M. Semenov-Tian-Shansky, H.-Y. Won, S. Son, C. Weiss** ,<br/>
+*Complete definition of N → Δ transition generalized parton distributions*,<br/>
+[Phys. Rev. D 111 (Dec 2024)](https://inspirehep.net/literature/2864361)
 
 - **B. Hu, H. Du, X. Jiang, K.-F. Liu, P. Sun, Y.-B. Yang**,<br/>
 *Unveiling the Strong Interaction origin of Baryon Masses with Lattice QCD*,<br/>
@@ -154,64 +199,6 @@ classes: wide
 - **Shohini Bhattacharya, Krzysztof Cichy, Martha Constantinou, Jack Dodson, Xiang Gao, Andreas Metz, Joshua Miller, Swagato Mukherjee, Peter Petreczky, Fernanda Steffens, Yong Zhao,**,<br/>
 *Moments of axial-vector GPD from lattice QCD: quark helicity, orbital angular momentum, and spin-orbit correlation,*<br/>
 [JHEP 01 (2025) (Oct 2024)](https://inspirehep.net/literature/2837313)
-  
-- **Xiang Gao, Jinchen He, Yushan Su, Rui Zhang, Yong Zhao,**<br/>
-*Comments on "Non-local Nucleon Matrix Elements in the Rest Frame”*,<br/>
-[e-Print: 2408.04674  (Aug 2024)](https://inspirehep.net/literature/2816860)
-  
-- **D.-H. Li, K.-F. Liu et al. [χQCD Collaboration]**,<br/>
-*Charm physics with overlap fermions on 2+1-flavor domain wall fermion configurations*,<br/>
-[Chin.Phys.C 48 (Jul 2024)](https://inspirehep.net/literature/2804819)
- 
-- **Volker Burkert, Stefan Diehl, Peter Schweitzer**,<br/>
-*Quarks unter Hochdruck im Proton*,<br/>
-[Phys.Unserer Zeit 55 (July 2024)](https://inspirehep.net/literature/2858677)
-
-- **Jiunn-Wei Chen, Xiang Gao, Jinchen He, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, Qi-An Zhang, Rui Zhang, Yong Zhao** ,<br/>
-*LaMET’s Asymptotic Extrapolation vs. Inverse Problem*,<br/>
-[e-Print: 2505.14619 (May 2025)](https://inspirehep.net/literature/2922794)
-
-- **Shohini Bhattacharya, Martha Constantinou, Andreas Metz, Joshua Miller**,<br/>
-*Generalized Parton Distributions from Lattice QCD with Asymmetric Momentum Transfer: Tensor Case*,<br/>
-[e-Print: 2505.11288 (May 2025)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=arXiv%3A2505.11288&ui-citation-summary=true)
-
-- **Dennis Bollweg, Xiang Gao, Jinchen He, Swagato Mukherjee, Yong Zhao** ,<br/>
-*Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF*,<br/>
-[Phys. Rev. D 112 (Apr 2025)](https://inspirehep.net/literature/2908599)
-
-- **June-Young Kim, Christian Weiss**,<br/>
-*Chiral-odd generalized parton distributions in the large-N_c limit of QCD: Spin-flavor structure, polynomiality, sum rules*,<br/>
-[Phys. Rev. D 111 (Apr 2025)](https://inspirehep.net/literature/2852151)
-
-- **Joe Karpie, Christopher Monahan, Anatoly Radyushkin**,<br/>
-*Non-local Nucleon Matrix Elements in the Rest Frame*,<br/>
-[Phys. Rev. D 111 (Mar 2025)](https://inspirehep.net/literature/2810373)<br/>
- 
-- **A. Bora, A. Mandal, S. Mittal, M. Pandey, R. Rana, H. Saxena, P. Jana, R. Dhumane, T. Bhowmik, M. Constantinou**,<br/> 
-*The Energy Spectrum of Kaon from Lattice QCD*, <br/>
-[e-Print: 2503.19396 (Mar 2025)](https://inspirehep.net/literature/2903807)
-
-- **R. Zhang, A. Grebe, D. Hackett, M. Wagman, Y. Zhao** ,<br/>
-*Kinematically-enhanced interpolating operators for boosted hadrons*,<br/>
-[Phys.Rev.D 112  (Jan 2025)](https://inspirehep.net/literature/2864302)
-
-- **Yuxun Guo, Feng Yuan, Wenbin Zhao**,<br/>
-*Bayesian Inferring Nucleon Gravitational Form Factors via Near-Threshold J/Psi Photoproduction*,<br/>
-[Phys. Rev. Lett. 135 (Jan 2025)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=2501.10532&ui-citation-summary=true)
-
-- **J. Holligan, H.-W. Lin, R. Zhang, Y. Zhao** ,<br/>
-*Resummation for Lattice QCD Calculation of Generalized Parton Distributions at Nonzero Skewness*,<br/>
-[JHEP 207  241 (Jan 2025)](https://inspirehep.net/literature/2874446)    
-
-**2024**
-
-- **Wei-Yang Liu, Ismail Zahed, Yong Zhao,**<br/>
-*Collins-Soper kernel in the QCD instanton vacuum,*<br/>
-[Phys.Rev.D 111 ( Apr 2025) (Dec 2024)](https://inspirehep.net/literature/2864322)
-
-- **J.-Y. Kim, K. M. Semenov-Tian-Shansky, H.-Y. Won, S. Son, C. Weiss** ,<br/>
-*Complete definition of N → Δ transition generalized parton distributions*,<br/>
-[Phys. Rev. D 111 (Dec 2024)](https://inspirehep.net/literature/2864361)
 
 - **F. Aslan, M. Boglione, J.O. Gonzalez-Hernandez, T. Rainaldi, T.C. Rogers, A. Simonelli**,<br/>
 *Phenomenology of TMD parton distributions in Drell-Yan and Z0 boson production in a hadron structure oriented approach*,<br/>
@@ -272,6 +259,18 @@ classes: wide
 - **Xiang Gao, Jinchen He, Rui Zhang, Yong Zhao**,<br/>
 *Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge*,<br/>
 [Chin.Phys.Lett. 41 (Aug 2024)](https://inspirehep.net/literature/2817213)
+ 
+- **Xiang Gao, Jinchen He, Yushan Su, Rui Zhang, Yong Zhao**, <br/>
+*Comments on "Non-local Nucleon Matrix Elements in the Rest Frame”*,<br/>
+[e-Print: 2408.04674  (Aug 2024)](https://inspirehep.net/literature/2816860)
+  
+- **D.-H. Li, K.-F. Liu et al. [χQCD Collaboration]**,<br/>
+*Charm physics with overlap fermions on 2+1-flavor domain wall fermion configurations*,<br/>
+[Chin.Phys.C 48 (Jul 2024)](https://inspirehep.net/literature/2804819)
+ 
+- **Volker Burkert, Stefan Diehl, Peter Schweitzer**,<br/>
+*Quarks unter Hochdruck im Proton*,<br/>
+[Phys.Unserer Zeit 55 (July 2024)](https://inspirehep.net/literature/2858677)
 
 - **Ethan Baker, Dennis Bollweg, Peter Boyle, Ian Cloët, Xiang Gao, Swagato Mukherjee, Peter Petreczky, Rui Zhang, Yong Zhao**,<br/>
 *Lattice QCD calculation of the pion distribution amplitude with domain wall fermions at physical pion mass*,<br/>
