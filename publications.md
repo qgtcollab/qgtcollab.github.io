@@ -67,7 +67,7 @@ classes: wide
 
 - **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos** ,<br/>
 *Window observables for benchmarking parton distribution functions*,<br/>
-[e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464)
+[e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464) To appear in Physical Review Letters.
 
 - **A. Freese** ,<br/>
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
