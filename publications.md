@@ -77,7 +77,7 @@ classes: wide
 *The anomalous magnetic moment of the muon in the Standard Model: an update*,<br/>
 [Phys. Rept. 1143 (May 2025)](https://inspirehep.net/literature/2925594)  
 
-- **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos** ,<br/>
+- **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos**,<br/>
 *Window observables for benchmarking parton distribution functions*,<br/>
 [e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464) To appear in Physical Review Letters.
 
@@ -89,7 +89,7 @@ classes: wide
 *Generalized Parton Distributions from Lattice QCD with Asymmetric Momentum Transfer: Tensor Case*,<br/>
 [e-Print: 2505.11288 (May 2025)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=arXiv%3A2505.11288&ui-citation-summary=true)
 
-- **Dennis Bollweg, Xiang Gao, Jinchen He, Swagato Mukherjee, Yong Zhao** ,<br/>
+- **Dennis Bollweg, Xiang Gao, Jinchen He, Swagato Mukherjee, Yong Zhao**,<br/>
 *Transverse-momentum-dependent pion structures from lattice QCD: Collins-Soper kernel, soft factor, TMDWF, and TMDPDF*,<br/>
 [Phys. Rev. D 112 (Apr 2025)](https://inspirehep.net/literature/2908599)
 
@@ -97,7 +97,7 @@ classes: wide
 *Chiral-odd generalized parton distributions in the large-N_c limit of QCD: Spin-flavor structure, polynomiality, sum rules*,<br/>
 [Phys. Rev. D 111 (Apr 2025)](https://inspirehep.net/literature/2852151)
 
-- **A. Freese** ,<br/>
+- **A. Freese**,<br/>
 *Mechanical form factors and densities of non-relativistic fermions*,<br/>
 [Phys. Rev. D 112 (May 2025)](https://inspirehep.net/literature/2919771)
 
@@ -111,21 +111,21 @@ classes: wide
 
 - **Wei-Yang Liu, Ismail Zahed, Yong Zhao**, <br/>
 *Collins-Soper kernel in the QCD instanton vacuum,*<br/>
-[Phys.Rev.D 111 ( Apr 2025) (Dec 2024)](https://inspirehep.net/literature/2864322)
+[Phys.Rev.D 111 (Apr 2025)](https://inspirehep.net/literature/2864322)
 
 - **C. Weiss** ,<br/>
 *Gluonic structure from instantons*,<br/>
 [Acta Phys.Polon.B 56 (Mar 2025)](https://inspirehep.net/literature/2900981)
 
-- **N. Miesch, E. Shuryak, I. Zahed** ,<br/>
+- **N. Miesch, E. Shuryak, I. Zahed**,<br/>
 *D-shell mixing in light baryons and its effect on the orbital motion*,<br/>
 [e-Print: 2503.13273 (Mar 2025)](https://inspirehep.net/literature/2901454)
  
-- **X. Ji, C. Yang** ,<br/>
+- **X. Ji, C. Yang**,<br/>
 *Momentum Flow and Forces on Quarks in the Nucleon*,<br/>
 [e-Print: 2503.01991 (Mar 2025)](https://inspirehep.net/literature/2896597)
 
-- **P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan** ,<br/>
+- **P. Caucal, M. Morales, E. Iancu, F. Salazar, F. Yuan**,<br/>
 *Unveiling the sea: universality of the transverse momentum dependent quark distributions at small x*,<br/>
 [e-Print: 2503.16162 (Mar 2025)](https://inspirehep.net/literature/2902117)
 
