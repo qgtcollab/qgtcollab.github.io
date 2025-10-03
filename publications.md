@@ -3,7 +3,13 @@ title: Publications
 classes: wide
 ---
 
+
+
+
+
+
 **2025**
+
 
 - **Minhui Zhu, Minyang Tian, Yong Zhao et al.**,<br/>
 *Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark*,<br/>
@@ -92,6 +98,10 @@ classes: wide
 - **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos** ,<br/>
 *Inverse problem in the LaMET framework*,<br/>
 [e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
+
+- **Xiangdong Ji,  Yizhuang Liu,  Yushan Su, Rui Zhang**,<br/>
+*Effects of threshold resummation for large-x PDF in large momentum effective theory*,<br/>
+[JHEP 03 (Mar 2025)](https://inspirehep.net/literature/2840849)
 
 - **C. Weiss** ,<br/>
 *Gluonic structure from instantons*,<br/>
