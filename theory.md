@@ -97,9 +97,19 @@ J-Y Kim, Christian Weiss, Chiral-odd generalized parton distributions in the lar
 
 ![image](/highlights/images/TransversityGPD.png)
 
-Transversity generalized parton distributions (chiral-odd GPDs) describe the 3D distributions of transversely polarized quarks in the nucleon. The quark spin is entangled with the nucleon spin and orbital motion (momentum transfer), producing a rich structure Results. In this study, we performed structural analysis revealing complex “multipole”structure of transversity GPDs and predicted dynamical relations between spin-flavor components in large-Nc limit of QCD, confirmed by lattice QCD results. This will have significant impact on new probes of nucleon spin and chiral structure, complementing helicity (chiral-even) GPDs. Transversity GPDs are pure quark structures (no mixing with gluons)and uniquely sensitive to nonperturbative dynamics. They are measured in exclusive pion production experiments at JLab12; dynamical predictions are needed and used in the analysis.
+Transversity generalized parton distributions (chiral-odd GPDs) describe the 3D distributions of transversely polarized quarks in the nucleon. The quark spin is entangled with the nucleon spin and orbital motion (momentum transfer), producing a rich structure Results. In this study, we performed structural analysis revealing complex “multipole”structure of transversity GPDs and predicted dynamical relations between spin-flavor components in large-Nc limit of QCD, confirmed by lattice QCD results. This will have significant impact on new probes of nucleon spin and chiral structure, complementing helicity (chiral-even) GPDs. Transversity GPDs are pure quark structures (no mixing with gluons)and uniquely sensitive to nonperturbative dynamics. They are measured in exclusive pion production experiments at JLab12.
 
 The figure shows the comparison between the large Nc predictions and the lattice QCD simulations for the transversity GPDs.
+
+# Transition GPDs: Exploring the QCD structure of excited baryons
+
+Diehl, Joo, Semenov-T., Weiss (editors), [EPJA 61, 131 (2025)](https://link.springer.com/article/10.1140/epja/s10050-025-01552-2);Kim, Semonov-T.-Sh., Won, Son, Weiss, [PRD 111, 114010 (2025)](https://journals.aps.org/prd/abstract/10.1103/m4vj-bkqy);Kim, Won, Goity, Weiss, [PLB 844,138083 (2023)](https://www.sciencedirect.com/science/article/pii/S0370269323004173?via%3Dihub);Kim, Weiss, [arXiv:2507.18402](https://inspirehep.net/literature/2954235)
+
+![image](/highlights/images/TransitionGPD.png)
+
+Exclusive scattering processes e + N → e’ + meson + N* sample the N → N* transition generalized parton distributions (GPDs), extending the concept of N → N GPDs. These are new probes of excited baryon structure in QCD. In these studies, we established spin structure of N → Δ transition GPDs and discovered new “tensor-polarized” parton distribution. We further formulated concept of QCD angular momentum in baryon transitions and predicted N → Δ transition angular momentum using 1/Nc expansion. This led community effort to formulate physics program in transition GPDs at JLab 12GeV and EIC ([White Paper](https://link.springer.com/article/10.1140/epja/s10050-025-01552-2)). This series of the study will stimulate emerging physics program in transition GPDs. In particular, first results from JLab12 Concept enables systematic studies of excited baryon structure in QCD, including its mechanical properties, 3D spatial structure. We also emphasize possible future measurements with EIC far-forward detectors.
+
+Figure illustrates the exclusive processeswith N → N* transition which can probe the transition GPDs.
 
 # Gravitational form factors from near threshold heavy quarkonium photo-production
 
