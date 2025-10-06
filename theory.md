@@ -91,6 +91,16 @@ The relation between the pion's quark distribution function, q(x), its light-fro
 
 The figure here shows that future experiments at JLab will be able to distinguish these two models.
 
+# Transversity GPDs: Revealing the nucleon’s “other” chiral spin structure
+
+J-Y Kim, Christian Weiss, Chiral-odd generalized parton distributions in the large-Nc limit of QCD: Spin-flavor structure, polynomiality, and sum rules, [Phys. Rev. D 111, 074007 (2025)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.074007)
+
+![image](/highlights/images/TransversityGPD.png)
+
+Transversity generalized parton distributions (chiral-odd GPDs) describe the 3D distributions of transversely polarized quarks in the nucleon. The quark spin is entangled with the nucleon spin and orbital motion (momentum transfer), producing a rich structure Results. In this study, we performed structural analysis revealing complex “multipole”structure of transversity GPDs and predicted dynamical relations between spin-flavor components in large-Nc limit of QCD, confirmed by lattice QCD results. This will have significant impact on new probes of nucleon spin and chiral structure, complementing helicity (chiral-even) GPDs. Transversity GPDs are pure quark structures (no mixing with gluons)and uniquely sensitive to nonperturbative dynamics. They are measured in exclusive pion production experiments at JLab12; dynamical predictions are needed and used in the analysis.
+
+The figure shows the comparison between the large Nc predictions and the lattice QCD simulations for the transversity GPDs.
+
 # Gravitational form factors from near threshold heavy quarkonium photo-production
 
 Yuxun Guo, Xiangdong Ji, Feng Yuan, Proton's gluon GPDs at large skewness and gravitational form factors from near threshold heavy quarkonium photo-production,  [Phys.Rev.D 109 (2024) 1, 014014](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.014014)
