@@ -249,7 +249,7 @@ classes: wide
 
 - **Yuxun Guo, Xiangdong Ji, M. Gabriel Santiago, Jinghong Yang, Hao-Cheng Zhang**,<br/>
 *Small-x gluon GPD constrained from deeply virtual J/Psi production and gluon PDF through universal-moment parameterization*,<br/>
-[e-Print: 2409.17231 (Sep 2024)](https://inspirehep.net/literature/2833822)
+[Phys. Rev. D 112 (Sep 2024)](https://inspirehep.net/literature/2833822)
 
 - **Shohini Bhattacharya, Krzysztof Cichy, Martha Constantinou, Andreas Metz, Niilo Nurminen, Fernanda Steffens**,<br/>
 *Generalized parton distributions from the pseudodistribution approach on the lattice*,<br/> 
@@ -273,7 +273,7 @@ classes: wide
 
 - **Yuxun Guo, Xiaohui Liu, Feng Yuan**,<br/>
 *Long Range Energy-energy Correlator at the LHC*,<br/>
-[e-Print: 2408.14693 (Aug 2024)](https://inspirehep.net/literature/2822108)
+[Phys. Rev. D 112(Aug 2024)](https://inspirehep.net/literature/2822108)
 
 - **Xiang Gao, Jinchen He, Rui Zhang, Yong Zhao**,<br/>
 *Systematic Uncertainties from Gribov Copies in Lattice Calculation of Parton Distributions in the Coulomb gauge*,<br/>
@@ -297,7 +297,7 @@ classes: wide
 
 - **Fangcheng He, Ismail Zahed**,<br/>
 *Threshold photo-production of J/Psi off light nuclei*,<br/>
-[e-Print: 2407.09991 (Jul 2024)](https://inspirehep.net/literature/2807707)
+[Phys. Rev. C 112 (Jul 2024)](https://inspirehep.net/literature/2807707)
 
 - **Heng-Tong Ding, Xiang Gao, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao**,<br/>
 *Three-dimensional Imaging of Pion using Lattice QCD: Generalized Parton Distributions*,<br/>
@@ -305,7 +305,7 @@ classes: wide
 
 - **Bhoomika Pandya, Bheemsehan Gurjar, Dipankar Chakrabarti, Ho-Meoyng Choi, Chueng-Ryong Ji**,<br/>
 *Mixing effects on spectroscopy and partonic observables of mesons with logarithmic confining potential in a light-front quark model*,<br/>
-[e-Print: 2407.02479 (Jul 2024)](https://inspirehep.net/literature/2803992)
+[Phys. Rev. D 110 (Jul 2024)](https://inspirehep.net/literature/2803992)
 
 - **Jin-Chen He, Min-Huan Chu, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yibo Yang, Jian-Hui Zhang, Qi-An Zhang**,<br/>
 *Unpolarized transverse momentum dependent parton distributions of the nucleon from lattice QCD*,<br/>
@@ -313,34 +313,30 @@ classes: wide
 
 - **Brean Maynard**,<br/>
 *Energy-momentum tensor in phi4  theory at one loop*,<br/>
-[e-Print: 2406.08857 (Jun 2024)](https://inspirehep.net/literature/2797751)
+[Phys. Rev. D 111 (Jun 2024)](https://inspirehep.net/literature/2797751)
 
 - **Fangcheng He,
 Ismail Zahed**,<br/>
 *Helium-4 gravitational form factors: exchange currents*,<br/>
-[e-Print: 2406.07412 (Jun 2024)](https://inspirehep.net/literature/2796900)
+[Phys. Rev. C 110 (Jun 2024)](https://inspirehep.net/literature/2796900)
 
 - **Yuxun Guo, Xiaohui Liu, Feng Yuan, Hua Xing Zhu**,<br/>
 *Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC*,<br/>
-[e-Print: 2406.05880 (Jun 2024)](https://inspirehep.net/literature/2796551)
+[Research (Jun 2024)](https://inspirehep.net/literature/2796551)
 
 - **Zhengyang Gao, Fangcheng He, Chueng-Ryong Ji, W. Melnitchouk, Y. Salamu, P. Wang**,<br/>
 *Nonlocal chiral contributions to generalized parton distributions of the proton at nonzero skewness*,<br/>
-[e-Print: 2406.03412 (Jun 2024)](https://inspirehep.net/literature/2794791)
+[Phys. Rev. D 110 (Jun 2024)](https://inspirehep.net/literature/2794791)
 
 - **Sebastian Grieninger, 
 Ismail Zahed,**,<br/>
 *Quasi-fragmentation functions in the massive Schwinger model*,<br/>
-[e-Print: 2406.01891 (Jun 2024)](https://inspirehep.net/literature/2794365)
+[Phys. Rev. D 110 (Jun 2024)](https://inspirehep.net/literature/2794365)
 
 - **Ian Cloet, Xiang Gao, Swagato Mukherjee, Sergey Syritsyn, Nikhil Karthik, Peter Petreczky, Rui Zhang, Yong Zhao**,<br/>
 *Lattice QCD Calculation of  x-dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation*,<br/> 
 [Phys.Rev.D 110 (Jun 2024)](https://inspirehep.net/literature/2803470)
 
-- **Nicholas Miesch, 
-Edward Shuryak**,<br/>
-*Wave functions of multiquark hadrons from representations of the symmetry groups Sn*,<br/>
-[e-Print: 2406.05024 (Jun 2024)](https://inspirehep.net/literature/2796032)
 
 - **D. Bollweg, X. Gao, S. Mukherjee and Y. Zhao**, <br/>
 *Nonperturbative Collins-Soper kernel from chiral quarks with physical masses*,<br/>
@@ -388,7 +384,7 @@ Edward Shuryak**,<br/>
 
 - **Nicholas Miesch, Edward Shuryak, Ismail Zahed**,<br/>
 *Bridging hadronic and vacuum structure by heavy quarkonia*,<br/>
-[Unpublished (Mar 2024)](https://inspirehep.net/literature/2772112)
+[Phys. Rev. D 111  (Mar 2024)](https://inspirehep.net/literature/2772112)
 
 - **Joe Karpie, Richard Whitehill, Wally Melnitchouk, Chris Monahan, Kostas Orginos, Jian-Wei Qiu, David Richards, Nobuo Sato, Savvas Zafeiropoulos**,<br/>
 *Gluon helicity from global analysis of experimental data and lattice QCD Ioffe time distributions*,<br/> 
@@ -439,10 +435,6 @@ Edward Shuryak**,<br/>
 - **Jian Liang, Raza Sabbir Sufian, Bigeng Wang, Terrence Draper, Tanjib Khan, Keh-Fei Liu, Yi-Bo Yang**,<br/>
 *Elastic and resonance structures of the nucleon from hadronic tensor in lattice QCD: implications for neutrino-nucleon scattering and hadron physics*,<br/>
 [Unpublished (Nov 2023)](https://inspirehep.net/literature/2719761)
-
-- **Ho‐Yeon Won, Hyun‐Chul Kim, June‐Young Kim**,<br/> 
-*Role of strange quarks in the D‐term and cosmological constant term of the proton*,<br/>
-[Phys. Rev. D 108 (Nov 2023)](https://inspirehep.net/literature/2673857)
   
 - **Tanjib Khan, Tianbo Liu, Raza Sabbir Sufian**,<br/> 
 *Gluon helicity in the nucleon from lattice QCD and machine learning*,<br/>
