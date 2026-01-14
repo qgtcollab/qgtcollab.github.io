@@ -87,7 +87,7 @@ classes: wide
 
 - **J. Karpie, C. Monahan, K. Orginos, S. Zafeiropoulos**,<br/>
 *Window observables for benchmarking parton distribution functions*,<br/>
-[e-Print: 2505.22795 (May 2025)](https://inspirehep.net/literature/2926464) To appear in Physical Review Letters.
+[Phys. Rev. Lett. 135 (May 2025) 191901](https://inspirehep.net/literature/2926464)
 
 - **Jiunn-Wei Chen, Xiang Gao, Jinchen He, Jun Hua, Xiangdong Ji, Andreas Schäfer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, Qi-An Zhang, Rui Zhang, Yong Zhao** ,<br/>
 *LaMET’s Asymptotic Extrapolation vs. Inverse Problem*,<br/>
