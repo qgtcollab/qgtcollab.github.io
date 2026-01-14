@@ -5,6 +5,10 @@ classes: wide
 
 **2025**
 
+- **Y. Cahuana Medrano, H. Dutrieux, J. Karpie, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Gaussian Processes for Inferring Parton Distributions*,<br/>
+[e-Print: 2510.21041 (Oct 2025)](https://inspirehep.net/literature/3072966)
+
 - **Minhui Zhu, Minyang Tian, Yong Zhao et al.**,<br/>
 *Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark*,<br/>
 [e-Print: 2509.26574 (Sep 2025)](https://inspirehep.net/literature/2983629)
