@@ -5,9 +5,21 @@ classes: wide
 
 **2026**
 
+- **Robert Edwards, Joe Karpie, Christopher Monahan, Kostas Orginos, Anatoly Radyushkin, David Richards, Eloy Romero, Savvas Zafeiropoulos**,<br/>
+*Femtoscale imaging of the proton with Ioffe-time distributions*,<br/>
+[e-Print: 2608.23737 (Aug 2026)](https://inspirehep.net/literature/3195773)
+
+- **Hervé Dutrieux, Robert Edwards, Joe Karpie, Cédric Mezrag, Christopher Monahan, Kostas Orginos, Anatoly Radyushkin, David Richards, Eloy Romero, Savvas Zafeiropoulos**,<br/>
+*Reconstructing the full kinematic dependence of GPDs from pseudo-distributions*,<br/>
+[e-Print: 2604.21476 (Apr 2026)](https://inspirehep.net/literature/3148486)
+
+- **Robert Edwards, Joe Karpie, Lorenzo Maio, Christopher J. Monahan, Kostas Orginos, David Richards, Alexandru M. Sturzu, Savvas Zafeiropoulos**,<br/>
+*Accessing the Gluon Momentum Fraction of Nucleons through the Gradient Flow*,<br/>
+[Phys.Rev.D 114 (2026) 1, 014516](https://inspirehep.net/literature/3120599)
+
 - **Adam Freese**,<br/>
 *Reflections on Noether's second theorem and the energy-momentum tensor*,<br/>
-[Phys. Rev. D 113 (Jan 2026)](https://inspirehep.net/literature/2929752)
+[Phys.Rev.D 113 (2026) 1, 016011](https://inspirehep.net/literature/2929752)
 
 **2025**
 
