@@ -17,6 +17,10 @@ classes: wide
 *Accessing the Gluon Momentum Fraction of Nucleons through the Gradient Flow*,<br/>
 [Phys.Rev.D 114 (2026) 1, 014516](https://inspirehep.net/literature/3120599)
 
+- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos**, <br/>
+*Inverse problem in the LaMET framework*,<br/>
+[Phys.Rev.D 113 (2026) 7, 074524](https://inspirehep.net/literature/2915254)
+
 - **Adam Freese**,<br/>
 *Reflections on Noether's second theorem and the energy-momentum tensor*,<br/>
 [Phys.Rev.D 113 (2026) 1, 016011](https://inspirehep.net/literature/2929752)
@@ -206,10 +210,6 @@ classes: wide
 - **T. Dodge and P. Schweitzer**,<br/>
  *Analytic soliton solutions of nonlinear extensions of the Schrödinger equation*,<br/>
 [Physica D 476  134666 (Apr 2025)](https://inspirehep.net/literature/2648413)
-
-- **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos**, <br/>
-*Inverse problem in the LaMET framework*,<br/>
-[e-Print: 2504.17706 (Apr 2025)](https://inspirehep.net/literature/2915254)
 
 - **Wei-Yang Liu, Ismail Zahed, Yong Zhao**, <br/>
 *Collins-Soper kernel in the QCD instanton vacuum,*<br/>
