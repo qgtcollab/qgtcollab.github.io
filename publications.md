@@ -17,6 +17,10 @@ classes: wide
 *Accessing the Gluon Momentum Fraction of Nucleons through the Gradient Flow*,<br/>
 [Phys.Rev.D 114 (2026) 1, 014516](https://inspirehep.net/literature/3120599)
 
+- **Y. Cahuana Medrano, H. Dutrieux, J. Karpie, K. Orginos, S. Zafeiropoulos** ,<br/>
+*Gaussian Processes for Inferring Parton Distributions*,<br/>
+[JHEP 04 (2026) 182](https://inspirehep.net/literature/3072966)
+
 - **H. Dutrieux, J. Karpie, C. Monahan, A. Radyushkin, D. Richards, K. Orginos, S. Zafeiropoulos**, <br/>
 *Inverse problem in the LaMET framework*,<br/>
 [Phys.Rev.D 113 (2026) 7, 074524](https://inspirehep.net/literature/2915254)
@@ -82,10 +86,6 @@ classes: wide
 - **Nicholas Miesch, Edward Shuryak, Ismail Zahed**,<br/>
 *Pentaquarks on the light front, and their mixture with baryons*,<br/>
 [e-Print: 2510.23404 (Oct 2025)](https://inspirehep.net/literature/3073772)
-
-- **Y. Cahuana Medrano, H. Dutrieux, J. Karpie, K. Orginos, S. Zafeiropoulos** ,<br/>
-*Gaussian Processes for Inferring Parton Distributions*,<br/>
-[e-Print: 2510.21041 (Oct 2025)](https://inspirehep.net/literature/3072966)
 
 - **P.C. Barry, A. Prokudin, T. Anderson, C. Cocuzza, L. Gamberg, W. Melnitchouk, E. Moffat, D. Pitonyak, J.-W. Qiu, N. Sato, A. Vladimirov, R.M. Whitehill**,<br/>
 *First simultaneous analysis of transverse momentum dependent and collinear parton distributions in the proton*,<br/>
@@ -242,6 +242,10 @@ classes: wide
 - **A. Bora, A. Mandal, S. Mittal, M. Pandey, R. Rana, H. Saxena, P. Jana, R. Dhumane, T. Bhowmik, M. Constantinou**,<br/> 
 *The Energy Spectrum of Kaon from Lattice QCD*, <br/>
 [e-Print: 2503.19396 (Mar 2025)](https://inspirehep.net/literature/2903807)
+
+- **Simple nonparametric reconstruction of parton distributions from limited Fourier information**,<br/>
+*Hervé Dutrieux, Joseph Karpie, Kostas Orginos, Savvas Zafeiropoulos*,<br/>
+[Phys.Rev.D 111 (2025) 3, 034515 (Feb 2025)](https://inspirehep.net/literature/2856795)
 
 - **T. Shen, Y. Chen, M. Gong, D.-H. Li, K.-F. Liu, Z. Liu, Z. Zhang**,<br/>
 *Form factors in semileptonic decay of D mesons*,<br/>
