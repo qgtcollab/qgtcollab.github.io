@@ -5,6 +5,10 @@ classes: wide
 
 **2026**
 
+- **Christopher Monahan and Tobias Neumann**,<br/>
+*Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region |x|>1*,<br/>
+[e-Print: 2609.40205 (Sep 2026)](https://arxiv.org/abs/2609.40205)
+
 - **Robert Edwards, Joe Karpie, Christopher Monahan, Kostas Orginos, Anatoly Radyushkin, David Richards, Eloy Romero, Savvas Zafeiropoulos**,<br/>
 *Femtoscale imaging of the proton with Ioffe-time distributions*,<br/>
 [e-Print: 2608.23737 (Aug 2026)](https://inspirehep.net/literature/3195773)
